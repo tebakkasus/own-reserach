@@ -1,0 +1,756 @@
+ARTICLE IN PRESS
+
+                                                  Social Science & Medicine 60 (2005) 131­141
+
+Effectiveness of a multi-component intervention on dispensing
+ practices at private pharmacies in Vietnam and Thailand--
+                     a randomized controlled trial
+
+   J. Chalkera,*, S. Ratanawijitrasinb, N.T.K Chucc, M. Petzoldd, G. Tomsone
+
+a International health systems research, Division of International Health (IHCAR), Karolinska Institutet, Department of Public Health
+                                                               Sciences, 17176, Stockholm, Sweden
+
+                 b Faculty of Pharmaceutical Sciences, Chulalongkorn University, Phayathai Road, Bangkok 10330. Thailand
+                                             c Hanoi Medical University, 1 Ton That Tung, Hanoi, Viet Nam
+
+                                d The Nordic School of Public Health, PO Box 12133, SE-40242 Goteborg, Sweden
+       e International health systems research, Division of International Health (IHCAR), Department of Public Health Sciences,
+
+              Director of Doctoral Programme, Medical Management Centre, Karolinska Institutet, 17176 Stockholm, Sweden
+
+                                                                  Available online 10 June 2004
+
+Abstract
+
+   Private pharmacies are the first line of health care in many communities, commonly selling antibiotics in small doses
+and prescription-only drugs such as steroids without medical supervision. The aim was to study the effectiveness of a
+multi-faceted intervention on the dispensing practices of drug sellers in Hanoi and Bangkok.
+
+   The study was a randomized, controlled trial with 68 Hanoi and 78 Bangkok pharmacies, randomly selected and
+assigned for intervention and control. Behaviour was assessed by five simulated client visits per pharmacy per
+dispensing practice, at baseline and a month or more after each intervention.
+
+   Three three-month interventions were implemented sequentially with four months in between: enforcement of
+regulations with local inspectors visiting to emphasize the importance of prescription-only medicine legislation;
+education, performed face-to-face in Hanoi and by a large group in Bangkok; and peer review, voluntary in Bangkok
+and compulsory in Hanoi.
+
+   The intervention resulted in significant improvements in Hanoi, reducing the dispensing of illegal steroids (29% vs.
+62%) and low dose antibiotics (69% vs. 90%), sustained by means of the peer review (17% vs. 57% steroids and 71%
+vs. 95% antibiotics), and in fewer dispensers asking no questions and giving no advice (11% vs. 30% steroids and 51%
+vs. 81% antibiotics). The only significant improvement in Bangkok was the reduction in illegally dispensing steroids
+(25% vs. 44%) after the regulatory intervention. In Bangkok, fewer of those in the group who volunteered for the peer
+review asked no questions and gave no advice for low-dose antibiotics requests after the peer review (58% vs. 81%).
+
+   A multi-component intervention can have a profound effect in changing dispensers' behaviour, but the effect is
+dependant on the context and the method of implementation. Possible reasons for differences are discussed.
+r 2004 Elsevier Ltd. All rights reserved.
+
+Keywords: Private pharmacies; Peer review; Regulation enforcement; Educational interventions; Vietnam; Thailand
+
+                                                            Background
+
+   *Corresponding author. Tel.: +44-1752-881501; fax: +44-     Drug sellers at private pharmacies are de facto
+1752-881073.                                                becoming the first line of primary health care in many
+                                                            communities (Cederlof & Tomson, 1995; Kamat &
+    E-mail address: jchalker@msh.org (J. Chalker).
+
+0277-9536/$ - see front matter r 2004 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.socscimed.2004.04.019
+     ARTICLE IN PRESS
+
+132  J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141
+
+Nichter, 1998) including in Vietnam (Tangcharoen-             drugstores, are of two types--one where a pharmacist is
+sathien, 1992; World-Bank, 1995) and Thailand (Rata-          required and the other that can be operated without a
+nawijitrasin, 2000), where 80% or more of people when         pharmacist. However, the majority of the pharmacies in
+sick, go directly to drug sellers. These profit-seeking,      the first category have operated without a pharmacist to
+usually small, businesses often do not follow good            do the dispensing. These pharmacies generally are
+treatment practices (Dong, Bogg, Rehnberg, & Diwan,           registered as hiring a part-time pharmacist, but in
+1999; Tomson & Sterky, 1986), and prescription-only           reality, they only rent a pharmacist license. Pharmacies
+drugs are freely sold without a prescription (Goel, Ross-     in the first category are allowed to sell antibiotics
+Degnan, Berman, & Soumerai, 1996; Lansang et al.,             without a prescription, but still sell drugs in small doses.
+1990). There have been several literature reviews of          Steroids are meant to be prescription-only medicines
+successful interventions to improve care. All showed          (Ratanawijitrasin, 2000). In Vietnam, by contrast,
+that multi-faceted interventions are more likely to be        private pharmacies have only been allowed since 1986.
+effective (Gross & Pujat, 2001; Oxman, Thomson,               The number of private pharmacies increased from none
+Davis, & Haynes, 1995; Ross-Degnan et al., 1997).             in 1986 to more than 6000 in 1996 (Falkenberg, Nguyen,
+Most published work on improving drug use in                  Larsson, Nguyen, & Tomson, 2000). Most antibiotics,
+developing countries focuses on the public sector             including cephalexin, and steroids are prescription-only
+(Ross-Degnan et al., 1997), where health workers are          medicines. Most clients buy such drugs from private
+essentially civil servants and there are clear lines of       pharmacies without a prescription or adequate user
+authority. There are a few published examples of              instructions (Chuc et al., 2001; Chuc & Tomson, 1999;
+interventions exploring how to improve practice by            Van Duong, Binns, & Van Le, 1997).
+private drug sellers. Both simple and multi-faceted
+interventions have been shown to be effective in                 Selling antibiotics in small doses without prescription
+particular environments (Chalker, Chuc, Falkenberg,           is particularly dangerous for the spread of antimicrobial
+& Tomson, 2002; Chuc et al., 2002; Chuc et al., 2001;         resistance (Levy, 1995; Macaden & Bhat, 1985; Murray
+Kafle, 2001), and an educational intervention was shown       et al., 1985; Wenzel, 1995). Where dangerous drugs are
+to be effective, at least in the short term, in a two-        sold without medical supervision, the patient is put at
+country study in Kenya and Indonesia (Ross-Degnan             increased risk. Corticosteroids have serious side effects
+et al., 1996); however, there has not been a comparison       and do not have any proven efficacy on back problems.
+of effectiveness of multi-faceted interventions in differ-
+ent environments.                                                The aim of the study was to study the effectiveness of
+                                                              a multi-faceted intervention on the dispensing practices
+   It has been suggested that private pharmacists in          of drug sellers in both Hanoi and Bangkok, with
+developing countries value their professional role and        reference to low-dose antibiotic and prescription-only
+status, as well as profit, and therefore may be amenable      steroid requests. This study is part of the Towards Good
+to interventions to improve performance (Laing, Ho-           Pharmacy Practice in Thailand and Vietnam project, in
+gerzeil, & Ross-Degnan, 2001). However, there has been        which the members of the team jointly developed the
+no attempt to assess possible inter-country differences.      design and the instruments used.
+Assessing intervention effectiveness and the relative
+importance of a country's culture, relationship to            Method
+authorities, history of the private sector and socio-
+economic level is an under-researched area.                      The study took the form of a randomized, controlled
+                                                              trial using urban, private pharmacies as study units
+   Most of the interventions to change dispensing             (Fig. 1). The research was started with a baseline
+behaviour are empiric with no theoretical underpinning.       measurement, followed by three different interventions:
+The success of any intervention is likely to depend as        (1) enforcement of regulations, (2) education, and (3)
+much on the quality of the implementation on the              peer-review. These were applied sequentially. Each
+sensitivity to different points of view and on the degree     intervention was designed by local groups and so was
+of support from influential organization members as on        contextualized to the different environments. Each
+the soundness of the principles of the change approach        intervention was implemented during a three-month
+adopted (Iles & Sutherland, 2001). To assess the              period, followed by a wash-out period of at least a
+effectiveness of interventions to improve drug dispensing     month, followed by three months of monitoring
+by private pharmacies, it would be informative to             provider practice through simulated client visits.
+implement a similar set of evidence-based interventions
+in two different environments and to compare the              Sampling of intervention and control pharmacies
+efficacy in each environment.
+                                                                 The different countries chose different sampling strate-
+   In Thailand, the private sector is well established, with  gies. In Vietnam, private pharmacies were randomly
+private pharmacies allowed since 1830. According to
+Thai laws, community pharmacies, commonly known as
+                   ARTICLE IN PRESS
+
+              J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141              133
+
+Intervention  SCM Regulation          SCM Education                   SCM     Peer    SCM
+group                    Enforcement                                       Influence  SCM
+
+Time               Jun 98-                                   Dec 98-        Jul-
+                   Aug 98                                    Feb 99        Sep 99
+Control
+Group         SCM                     SCM                             SCM
+
+SCM= Simulated client method
+
+         Fig. 1. Experimental design, measuring private pharmacy practice.
+
+selected throughout urban Hanoi. In Thailand, a cluster      Antibiotics and prescription-only steroids as tracer
+sampling methodology was chosen with the selection of        conditions
+eight districts in Bangkok--four intervention districts and
+four control districts.                                         In each country, a customer asking for steroids, a
+                                                             prescription-only drug, and a few capsules of an
+Hanoi                                                        antibiotic were chosen (cephalexin in Hanoi and
+   There were 641 private pharmacies registered in the       roxithromycin then amoxicillin in Bangkok). Selling
+                                                             these low doses was bad practice in both countries, but
+urban area of Hanoi that were not inside hospitals and       illegal in Vietnam without a prescription.
+were not mainly wholesalers. Thirty-four pairs of
+pharmacies were selected randomly from these 641.            Interventions
+These pairs were formed according to the following
+matching criteria: (1) whether the turnover was high,           In both cities, each intervention was developed
+medium, or low according to district inspectors; (2)         together with pharmacists who have worked locally in
+whether the pharmacist was the license holder; and (3)       private pharmacies, the health authorities, and the
+whether they were situated close to a hospital. The          pharmacist's professional societies.
+pharmacies in the pairs were randomly allocated into the
+intervention or control group.                               Enforcement of regulations
+                                                                The intervention focused on the regulations governing
+Bangkok
+   From the 40 districts of Bangkok, four main types of      dispensing of prescription- only drugs and was imple-
+                                                             mented in both cities in July/August 1998.
+representative neighbourhoods were selected: industrial,
+downtown living, modern living, and suburban. Two               In Hanoi, the intervention pharmacies were visited
+districts were randomly selected to represent each of the    twice by two inspectors. A summary of the regulations
+four types of neighbourhoods, then randomly assigned         on prescription-only medicine, a letter from the provin-
+to the control or intervention group. Seventy-eight          cial health bureau, and an example of good labelling
+pharmacies were then randomly selected from the eight        were handed out to each pharmacy.
+research districts and assigned to one of the two groups,
+resulting in 39 intervention and 39 control pharmacies.         In Bangkok, the enforcement of regulation interven-
+                                                             tion was performed by six inspectors. The inspectors
+Monitoring                                                   checked the availability of steroids and steroid prescrip-
+                                                             tions (if the drug was found) and gave instructions to the
+   Practice was studied through the simulated client         seller on the respective regulations. A warning was given
+method (SCM) at baseline and after each of the               about the consequences of violation of the regulations.
+interventions. Trained research assistants posing as
+patients or relatives presented standardized histories of    Education
+the tracer conditions at the pharmacy, asking the drug          The educational intervention focused on good case
+outlet staff for advice and treatment. Questions, advice,
+and treatment given were recorded on leaving the             management using a ``questions, advice, and treatment''
+pharmacy. The providers were not aware that the clients      (QAT) strategy to improve case management. Different
+were involved in research. For each phase of monitoring,     educational approaches were adopted in the two
+five of the trained research assistants for each of the two  countries.
+dispensing practice scenarios visited each pharmacy
+once. The scenarios are presented in Table 1.                   In Hanoi, the information package targeted the use of
+                                                             oral steroids and short courses of antibiotics. Local
+                                                             clinical experts helped to develop the material. Each
+                                                             pharmacy received two 45-min educational visits by a
+                                                             pair of senior researchers using both written and verbal
+                                                             information, one visit on dealing with requests for a
+                             ARTICLE IN PRESS
+
+134                          J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141
+
+Table 1
+The scenarios used for simulated clients in Bangkok and Hanoi
+
+Condition                    Presentation at the pharmacy Information in response to questioning.
+
+Antibiotic request in Hanoi  Could I have 2, 3, 4, or 5        I am somewhat tired and have no fever, no headache, no history
+Antibiotic requests in       tablets of cephalexin please?     of nasal allergy, no breathing problem. I have had 1­2 coughing
+Bangkok                                                        fits per hour for the last 2 days. I have no throat pain and have
+                             Could I have 2 or 4 tablets/      clear, transparent snot. I have taken no drugs.
+Steroid request in Hanoi     capsules of roxithromycin /       My cousin, who is about 30 years old, has been coughing for 2
+Steroid requests in Bangkok  amoxicillin please? (For          days; he feels tired. He does not have a fever. He does not have a
+                             baseline and post enforcement,    headache and has no difficulty with breathing. He is not allergic
+                             roxithromycin, and for post       to any drug and he has no problems with eating and drinking. He
+                             education and post peer the       coughs every hour or so. He has no sore throat and has clear
+                             request was for amoxicillin).     nasal discharge.
+                             My back is aching. Could I
+                             have 2, 3, 4, or 5 tablets of     I have had moderate lower back pain for one week. It has been
+                             dexamethasone/prednisolone        aching before. I used Paracetamol, but it didn't help much. I have
+                             please?                           no other medical problem. I was doing some repetitive
+                             Could I have 5 or 10 tablets of   movements. I was recommended to get some Prednisolone.
+                             dexamethasone or                  The drug is for my father who has had lower back pain for one
+                             prednisolone please?              week since lifting a heavy box. He took Paracetamol, but it didn't
+                                                               help much. He has no other medical problem and no allergies.
+                                                               This happened once before and he used prednisolone then which
+                                                               was recommended by a friend. I do not know if he has taken any
+                                                               other drugs or whether he has a peptic ulcer.
+
+short course of antibiotics and the other on using oral        aims and methods of peer review were presented.
+steroids. Each session included the role of pharmacies in      Training was given in how to manage peer groups,
+primary health care, information regarding good phar-          how to lead the discussions, and how to monitor and
+macy practice, and information regarding the QAT               evaluate progress.
+strategy, emphasizing the value of asking questions to
+come to a proper diagnosis, to give appropriate advice,           Each of the five area groups held five meetings
+and to refer if necessary.                                     averaging one every second week. The pharmacy staff
+                                                               received notebooks to make notes on client encounters.
+   In Bangkok, the educational intervention was per-           Each member of the pharmacy staff presented one or
+formed in three groups. The pharmacy owners and the            more client encounters at the meetings for discussion. A
+pharmacy assistants were invited to a two-day seminar,         final meeting was held that included an evaluation of the
+which included education on case management and                peer intervention and a presentation and discussion of
+rational use of drugs for the dispensing scenarios             the results.
+employed by the study. The nine pharmacists who did
+not attend the seminar were visited individually by               In Bangkok, prospective peer facilitators were identi-
+senior researchers who twice delivered a two-hour, face-       fied among the participants during the educational
+to-face educational package. The first visit included          intervention sessions. The researchers initiated a group
+information focusing on the use of antibiotics and the         by visiting these four to five active drugstores in each
+second on steroids.                                            district and introducing the concept of peer groups for
+                                                               drugstore staff.
+Peer review
+   In Hanoi, the intervention was developed in colla-             All intervention pharmacy staff were invited to a
+                                                               meeting entitled ``Techniques to Increase the Revenue of
+boration with the Hanoi Private Pharmacists Associa-           Drugstores.'' This title was intended to encourage
+tion. The intervention pharmacies in Hanoi were divided        greater participation. The meeting included lectures
+into five area groups with five to six pharmacies in each.     and games, which facilitated relationship building as
+The strategy built on the educational intervention             well as discussing the setting up of peer groups in each
+focusing on the QAT methodology, which encourages              district. After the meeting, the researchers sent the
+staff to ask questions to make the correct differential        minutes to all drugstores in the four intervention
+diagnoses. Researchers selected group leaders based on         districts, with a questionnaire asking for interest in
+observed qualities during the educational intervention.        setting up peer groups. A number of non-intervention
+These group leaders were invited to a training where the       drugstores in the intervention districts asked to join the
+                                                               meetings. On the other hand, some intervention
+                              ARTICLE IN PRESS
+
+J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141                                        135
+
+drugstores did not want to participate in the process.     difference between intervention and control pharmacies
+Case management forms were prepared for the phar-          in each city at each stage of the intervention.
+macy staff to discuss and continuously assess their own
+practice.                                                  Ethical approval
+
+Data analysis                                                 The study had ethical approval from the Karolinska
+                                                           Institutet as well as the Ministries of Health in Vietnam
+   The results were coded and entered using a database     and Thailand. It was carried out in Hanoi in collabora-
+and statistics programs. Pharmacies not represented at     tion with the Hanoi Provincial Health Bureau and the
+all SCM phases were excluded. In Hanoi, though a           Hanoi Pharmacy Association with the Hanoi Medical
+matched-pair design on the pharmacy level was used for     University and the College of Pharmacy. In Bangkok,
+data collection, the closeness of the pairs was found to   the work was in collaboration with the Health System
+be disparate. Since the analysis is based on repeated      Research Institute, Chulalongkorn University, and the
+observations on each pharmacy, the clustering effect has   Community Pharmacy Association.
+to be taken into account in the analysis. Here, a
+generalized linear mixed model for binary outcomes         Results
+using the macro GLIMMIX for SAS version 8.2 was
+applied. The clustering effect was included as a normally     At baseline, basic characteristics of the shops, such as
+distributed random intercept. Due to changes in            their turnover, staff numbers and qualification, were not
+procedures between subsequent assessments, a long-         possible to judge from the simulated client visit.
+itudinal analysis was not undertaken; due to differences   However, the random selection should have ensured
+in implementation and contextual factors in the two        comparability between intervention and control phar-
+cities, no direct comparison between the two cities was    macies in each location and none of the indicators
+undertaken. Rather, the analysis focused on the possible
+
+                              Hanoi                                          Bangkok
+
+       Exclude pharmacies in   789 private                                           Cluster
+        hospital grounds and  pharmacies in                                  selection 4 city areas
+
+             wholesalers            city                                      Random selection 2
+                                                                              districts from each
+Classify into: 1. Turnover;    641 private
+high, medium or low            pharmacies                                              area
+2. Pharmacist present or not
+3. Hospital vicinity          68 (34 pairs)                                  Random assignment
+Randomly ordered by computer      private                                       intervention and
+                                                                                control districts
+34 pharmacies chosen by        pharmacies
+systematic random sampling                                                     Random selection
+and 34 next in list that are                                              pharmacies in each district
+matching
+                                                                                (78 pharmacies)
+
+ Intervention                                              Control        Intervention  Control
+N = 34                                                     N = 34            N = 39     N = 39
+
+                                                                    Drop                Control
+                                                                    Outs                N = 35
+
+Intervention                                               Control        Intervention
+   N = 28                                                  N = 27            N = 34
+
+Fig. 2. Sampling procedure in Bangkok and Hanoi.
+                                     ARTICLE IN PRESS
+
+136                              J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141
+
+Table 2
+Antibiotic requests: The difference between intervention and control at each round of monitoring in Hanoi and Bangkok for both all
+the intervention group and for Bangkok those that chose to do the peer intervention
+
+                     Hanoi-all       Bangkok-all              Bangkok-peer group
+
+                     Int Cont Int-Cont P-valuec Int Cont Int-Cont P-valuec Int Cont Int-Cont P-valuec
+
+                     (%)a (%)b       (%) (%)                  (%) (%)
+
+# of SCM interviews                  170 175                  90 175
+
+Received requested antibiotics
+
+Baseline             99 97       2   0.1625 76 75          1  0.8925 79 75                        4   0.6998
+                                                                                                      0.3705
+Post regulatory      98 98       0   0.7389 58 67 À9          0.3770 58 67                        À9  0.1152
+                                                                                                      0.2510
+Post educational     69 90 À21       0.0471 92 95 À3          0.4795 87 95                        À8
+
+Post peer review     71 95 À24       0.0125 88 92 À4          0.5525 83 92                        À9
+
+Ask no questions gave no advice
+
+Baseline             70 73       À3  0.6027 82 86 À4          0.4165 80 86                        À6  0.3158
+                                                                                                      0.1598
+Post regulatory      77 77       0   0.9597 89 91 À2          0.5526 86 91                        À5  0.0914
+                                                                                                      0.0181
+Post educational     45 71 À26       0.0025 87 87          0  0.9447 77 87 À10
+
+Post peer review     51 81 À30       0.0028 72 81 À9          0.1927 58 81 À23
+
+   a Numbers of SCM interviews for 28 intervention pharmacies: baseline 139, post regulation, 132, post education 134, post peer
+
+review 138.
+   b Numbers of SCM interviews for 27 control pharmacies: baseline 131, post regulation, 130, post education 133, post peer review
+
+135. The numbers in Bangkok only include the peers in the intervention group. Others who came were not included in the analysis.
+   c For details of data analysis please see section at end of methods.
+
+measured by the SCM visits were significantly different    nificantly fewer members of the intervention group
+between intervention and control pharmacies (Tables 2      compared to the control group asked no questions or
+and 3). In Thailand, where the peer review was             gave no advice (45% vs. 71%) and also after the peer
+voluntary, staff from 18 of the intervention pharmacies    intervention (51% vs. 81%).
+took part and 16 did not. The analysis has been done for
+the whole intervention group and separately for the           In Bangkok (Table 2), giving antibiotics without
+more motivated peer group participants.                    prescription is not illegal, so giving a low dose of
+                                                           antibiotics was of more concern. The antibiotic
+   The drop outs (Fig. 2) were due to two phenomena;       requested was changed halfway through. Roxithromycin
+shop closure, and incomplete visits due to operational     was requested for the baseline and post regulations.
+lapses or to suspicion of the simulated client. The        Roxithromycin is produced in full-dose blister packs.
+analysis was performed for only those pharmacies that      Amoxicillin, which comes in individual capsules, was
+had at least 4 of the planned five SCM visits at baseline  requested post education and post peer interventions.
+and after each of the three interventions. In Bangkok
+one intervention shop and two control shops closed            Comparing the intervention to the control groups, there
+down and three of each were missed in at least one of the  were no differences or significant improvements in
+SCM round of visits. In Hanoi one intervention and         reducing the low doses of antibiotics dispensed or in
+three control shops closed, one intervention shop          asking no questions and giving no advice after any of the
+refused to continue and four intervention and four         interventions. No one asked for a prescription throughout.
+control shop had incomplete data for different rounds of
+client visits.                                                If we only look at those from the intervention group
+                                                           that finally volunteered for the peer review (Table 2) and
+Antibiotic requests                                        compare them to controls, there were significant
+                                                           improvements in those not asking questions and not
+   In Hanoi (Table 2), the dispensing of antibiotics as    giving advice after receiving all three interventions (58%
+requested improved significantly post peer review inter-   vs. 81%).
+vention (71% vs. 95%). Progressively more dispensing
+staff asked for prescriptions. This was 0% at baseline,    Steroid requests
+slowly rising to 6% (vs. 0%) post regulations, 13% (vs.
+5%) post education, and 20% (vs. 2%) post peer                In Hanoi (Table 3), all indicators changed signifi-
+interventions. After the educational intervention, sig-    cantly after the education and the peer interventions.
+                                                           The proportion receiving steroids was significantly
+                                                           reduced post education (29% vs. 62%), which was
+                                           ARTICLE IN PRESS
+
+                                 J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141                      137
+
+Table 3
+Steroid requests: The difference between intervention and control at each round of monitoring in Hanoi and Bangkok for both all the
+intervention group and for Bangkok those that chose to do the peer intervention
+
+                     Hanoi-all                            Bangkok-all                             Bangkok-peer group
+
+                     Int (%)a Cont Int-Cont P-valuec Int Cont Int-Cont P-valuec Int Cont Int-Cont P-valuec
+
+                                 (%)b                     (%) (%)                                 (%) (%)
+
+# of SCM interviews                                       170 175                                 90 175
+
+Received steroids
+
+Baseline             78          71    7   0.2930 50 47                3   0.6815 44 47                    À3         0.9753
+                                                                                                                      0.0302
+Post Regulatory      63          67    À4  0.5456 25 44 À19                0.0240 22 44 À22                           0.0168
+                                                                                                                      0.0484
+Post educational     29          62 À33      0.0011 55 71 À16              0.1151 41 71 À30
+                                           o0.0001 56 74 À18
+Post peer review     17          57 À40                                    0.0639 49 74 À25
+
+Ask for Px
+
+Baseline             1           1     0   0.5903 na na                                           na na
+                                           0.9599 2 1
+Post Regulatory      2           2     0   0.0127 6 1                  1   0.1768 2 1                      1          0.2605
+                                           0.0075 1 0
+Post educational     19          5     14                              5   0.0705 7 1                      6          0.2317
+
+Post peer review     18          5     13                              1   0.9761 2 0                      2          0.9776
+
+Ask no questions gave no advice
+
+Baseline             58          50    8   0.2488 51 47                4   0.6176 49 47                    2          0.8349
+                                                                                                                      0.3482
+Post regulatory      34          28    6   0.2919 43 50                À7  0.2818 42 50                    À8         0.4017
+                                                                                                                      0.8270
+Post educational     23          47 À24    0.0032 77 80                À3  0.6518 72 80                    À8
+
+Post peer review     11          30 À19    0.0014 72 72                0   0.9610 69 72                    À3
+
+   a Numbers of SCM interviews for 28 intervention pharmacies: baseline 139, post regulation, 130, post education 135, post peer
+
+review 134.
+   b Numbers of SCM interviews for 27 control pharmacies: baseline 133, post regulation, 135, post education 137, post peer review
+
+137. The numbers in Bangkok only include the peers in the intervention group. Others who came were not included in the analysis.
+   c For details of data analysis please see section at end of methods.
+
+reduced again post peer intervention (17% vs. 57%).       Discussion
+Significantly more asked for prescriptions in the inter-
+vention group after the education (19% vs. 5%) and           The intervention package was effective in Hanoi but
+peer review (18% vs. 5%) interventions. Similarly, those  not in Bangkok. By the end of the interventions, all
+that asked no questions about symptoms and gave no        indicators showed substantial and significant improve-
+advice changed significantly post education (23% vs.      ment in Hanoi for dispensing both antibiotics and
+47%) and post peer (11% vs. 30%).                         steroids when requested and for asking appropriate
+                                                          questions and giving advice. In Bangkok only the
+   In Bangkok (Table 3), comparing the intervention to    dispensing of illegally sold steroids improved after the
+the control groups, there were significant improvements   first intervention, which was not sustained. The group in
+in reducing steroid dispensing on request after the       Bangkok who volunteered for the peer group interven-
+enforcement of regulations (25% vs. 44%). These           tion showed improvement in their communication for
+differences did not continue significantly post educa-    antibiotic requests without improving dispensing. For
+tional intervention (55% vs. 71%) or post peer inter-     steroid requests, improvements were shown in dispen-
+vention (56% vs. 74%). Very few asked for                 sing without improvements in communication.
+prescriptions, though, with a maximum of 6% (vs 1%)
+post education. Throughout, there were no differences in     The randomized control trial design is robust and
+those who asked no relevant questions or gave no          allows confident interpretation between the intervention
+advice, with 72% at the end still not communicating.      and control groups within cities (intra-city) at each
+                                                          assessment. At baseline, 98% of dispensers in Hanoi
+   Looking at the group who eventually went to the peer   sold a few capsules of an inappropriate antibiotic and
+intervention in Bangkok (Table 3), at baseline, there     76% sold steroids. In Bangkok, when the requested
+were significant differences in steroid dispensing post   antibiotic changed to loose pack amoxicillin even after
+regulations (22% vs. 44%), post education (41% vs.        the educational intervention, 92% sold a few capsules,
+71%), and post peer (49% vs. 74%). But no differences     but only 50% sold steroids. The dispensers in both cities
+appeared in asking for prescriptions and in asking no     did not see it as their task to ask questions or give
+questions and giving no advice.
+     ARTICLE IN PRESS
+
+138  J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141
+
+advice. This baseline antimicrobial behaviour is serious      likely that with the shorter history of private practice in
+for the danger of promoting antimicrobial resistance.         Hanoi described in the background, interventions seen
+Changing it is one of the priorities of the World Health      as emanating from the authority of the state will be
+Organization (WHO) global strategy to contain anti-           given more weight than in Bangkok. In most high-
+microbial resistance (WHO, 2001). In Hanoi, the success       income countries, professional societies play an active
+of the multi-intervention package gives important             role in maintaining professional standards in pharmacy,
+evidence showing that these drug-seller practices are         medicine, and nursing. In the UK, for example, the
+changeable.                                                   General Medical Council is responsible for maintaining
+                                                              physicians' standards and imposing discipline through
+   There are important methodological considerations.         external peer review (Irvine, 1997). In resource-poor
+Caution is needed in both interpreting the difference in      countries, this is often not the case. Recommendations
+effectiveness between cities (inter-city) and in interpret-   in a recent paper suggested that professional associa-
+ing longitudinal trends. Success of any intervention is       tions be encouraged to provide accreditation systems
+likely to depend as much on the quality of implementa-        and continuing education programs (Laing et al., 2001).
+tion, on the sensitivity to different points of view, and on  In this work, in both cities, the members of the societies
+the degree of support from influential organization           were enthusiastic in carrying out their expanded role.
+members, as on the soundness of the principles of the
+change approach adopted (Iles & Sutherland, 2001).               In Bangkok, the regulatory intervention focused on
+Additionally, the differences in the professional, histor-    the illegality and threat of conviction for dispensing
+ical, political, economic, and cultural contexts are all      steroids without a prescription and was successful in
+important. An educational and small group peer review         changing behaviour. In Hanoi, the intervention was less
+intervention in four European countries on asthma             focused and less threatening of sanctions and showed no
+management resulted in different effects in each country      immediate change of behaviour.
+(Veninga et al., 1999). Contextual factors are as likely as
+the details of the implementation to explain the                 The enforcement of regulations is poor in many low-
+difference in effectiveness in Hanoi and Bangkok.             income countries (Hongoro & Kumaranayake, 2000).
+                                                              Enforcing regulations by inspector visits was successful
+   Interpreting change over time also needs caution, as       in Laos in improving giving information to customers
+the consistency of simulated client reporting varies. In      (Stenson, Syhakhang, Lundborg, Eriksson, & Tomson,
+Bangkok, for example, the antibiotics requested were          2001), but in our experience, this was not effective in
+changed from roxithromycin for the first two assess-          Hanoi or Bangkok for improving communication. This
+ments to amoxicillin for the last two. In Hanoi, all of the   emphasizes the importance of contextualized interven-
+simulated clients were changed during the fourth              tions and focused implementation. As shown in Bang-
+assessment. These issues highlight the need for careful       kok, a successful intervention needs to be tailored to a
+training and quality control of all aspects of the            specific problem in a specific location.
+simulated client assessments for longitudinal interpreta-
+tion. This does not affect the validity of the intra-city        For the educational intervention, the requested effort
+interpretation between intervention and control groups.       from the pharmacy staff was different. In Hanoi, each
+                                                              pharmacy was visited twice for a 45-min, face-to-face,
+   Other methodological considerations making inter-          focused interactive session. In Bangkok, the pharmacy
+pretation difficult are that the interventions were           owner and staff from each pharmacy were invited to a
+performed one after the other, so there is no possibility     two-day seminar. Those that did not attend received a
+of isolating the effect of each individual intervention.      two-hour visit to review the educational material. Face-
+However, in Hanoi, all interventions were built on the        to-face educational outreach visits have been effective in
+same information, so that each intervention reinforced        virtually every study where they have been used (Greco
+the other. In Bangkok, each of the three interventions        & Eisenberg, 1993). In Holland, this face-to-face
+focused on different problems. The regulatory interven-       technique was equally as successful as group or
+tion focused solely on prescription-only medicine             individual sessions in changing general practitioners'
+(steroids), which was successful in the short term. The       (GPs) prescribing of antidepressants (van Eijk, Avorn,
+peer review focused on dispensing antibiotics, and the        Porsius, & de Boer, 2001) and in reducing physicians'
+group that attended the peer review improved in aspects       use of highly anticholinergic antidepressants (van Eijk
+of antibiotic use.                                            et al., 2001). In Indonesia, there was little difference
+                                                              between small group face-to-face interventions and
+   In both Hanoi and Bangkok, in their different way,         larger formal seminars in effecting behaviour change,
+professional societies were active in compiling the           although it was thought that the small groups were
+educational package, teaching it, establishing and            possibly more cost effective and sustainable (Santoso,
+partaking in the peer-review process, and giving it their     Suryawati, & Prawaitasari, 1996). These findings are in
+credibility. However, in Hanoi, the professional society      contrast to the results reported here, where the inter-
+was more closely identified with the state, as all officials  country comparison with the attendant difficulties in
+had previously held senior government positions. It is
+ARTICLE IN PRESS
+
+J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141  139
+
+interpretation shows that the shorter, more focused,       kok. In hospitals in Laos, developing guidelines for
+face-to-face intervention was more effective.              diarrhoea and malaria and evaluating performance
+                                                           through feedback and peer group discussions led to
+   One possibility for the relative effectiveness of the   marked improvements (Wahlstro¨ m et al., 2003). As part
+educational intervention in Hanoi is that at baseline,     of a wider strategy in Vietnam, sustained change in using
+those from Hanoi were less knowledgeable than their        antimicrobials was attained (Chalker, 2001). In Mexico,
+counterparts in Bangkok, so the educational interven-      groups of doctors adopted treatment guidelines for
+tion provided them with knowledge that they did not        acute respiratory infections and diarrhoea and followed
+possess before. In Hanoi, baseline questionnaire data      a peer-review process. This resulted in sustained
+showed that no drug sellers thought of asking for a        improvement in use of oral rehydration salts, anti-
+prescription for antibiotics and about half did not know   diarrhoeals, and antibiotics (Gutierrez et al., 1994).
+that steroids were prescription-only drugs (Chuc, 2002).   When rolled out to state and district institutions, similar
+In comparing GPs' practices of adhering to guidelines in   improvements were achieved (Guiscafre et al., 1995).
+European countries for asthma and for urinary tract
+infections, the considerable differences found were           The sustained improvement over the two assessments
+ascribed mostly to contextual reasons rather than          in Hanoi is noteworthy. The first changes took place
+difference in knowledge (Veninga et al., 2000; Wahl-       after the educational intervention, which continued after
+strom et al., 2001).                                       the peer review assessment a year later. From previous
+                                                           work, we would have expected the effects of an
+   The implementation process of the peer group            educational intervention to have worn off by then. In-
+interventions was substantially different between the      service training in Ghana for malaria had a marked
+two countries. In Hanoi, the group norms and objectives    improvement effect at three months, but at nine months
+were set by the researchers and professional society       the effect was much reduced (Ofori-Adjei & Arhinful,
+member and focused directly on the contents of the         1996), and where treatment guidelines with training were
+educational intervention, which therefore became part      introduced in Nepal, the practice improved, but had
+of the peer review process itself (Grol & Lawrence,        deteriorated after six months. However, in one of the
+1995). In Bangkok, the process was less directed, with     Nepal study arms where peer review was introduced
+groups deciding more of their own priorities. The norms    after the training, as in Hanoi, the improvement was
+these groups set were not established until the peer       sustained (Kafle, 2001).
+intervention. Approximately half the intervention phar-
+macy staff chose not to participate in Bangkok; whereas,      Much of the published work on behaviour change is
+in Hanoi, the volunteer nature of the intervention was     theoretical and descriptive (Iles & Sutherland, 2001).
+different.                                                 However, most of the interventions to change physi-
+                                                           cians' prescribing behaviour are empiric with no
+   In our work with private pharmacies, the aim of the     theoretical underpinning. Marteau et al. randomly
+peer review strategy was to follow successful methodol-    selected 54 studies from the Cochrane Collaboration
+ogies developed in Europe: to improve self-education,      database, and only two studies claimed that the choice
+self-monitoring, and local quality assurance mechanisms    of interventions were guided by a theory or formal body
+(Lassen & Kristensen, 1992) in a safe environment          of knowledge (Marteau, Sowden, & Armstrong, 1998).
+(Grol, 1990) and not be part of a disciplinary instrument  There is wide agreement that improving the quality of
+but be a tool for learning by feedback (McIntyre &         therapy is enhanced by the implementation of evidence-
+Popper, 1983). In Grol's (1992) typology of approaches     based interventions (Sheldon & Chalmers, 1994), but
+to changing clinical behaviour, he contrasts between       there is some dissent about applying population-based
+non-voluntary coercive and voluntary facilitating meth-    results to individuals (Maynard, 1997) and the degree of
+ods (Grol, 1992). The complete participation in the peer   necessary flexibility for listening to individual circum-
+review process in Hanoi suggests a more coercive           stances (Greenhalgh & Hurwitz, 1999). The problems
+approach than in Bangkok, which appears in turn to         with private pharmacy dispensing in both Bangkok and
+have been more successful. The Bangkok volunteers          Hanoi were well known, and in both environments, local
+improved in a similar way for antibiotic requests to the   experts adapted the interventions to their settings with
+Hanoi groups. We can hypothesize that the most             varying effectiveness.
+important factor for change in the Bangkok environ-
+ment is the willingness, witnessed by volunteering for        In this paper, we have shown that the intra-city
+such interventions. Hence, the most productive way         comparison of the intervention and control groups is a
+forward would not be to select pharmacies at random,       strong design for action research, and the intervention
+but to ask for volunteers and focus efforts on these       package led to significant improvement in drug seller
+shops first.                                               activity in at least one country. Interpretations of the
+                                                           comparative effectiveness of interventions cross-cultu-
+   The groups developed pharmacy practice guidelines,      rally have many difficulties and need to be pursued with
+which were monitored during the peer review, and this      caution. The importance of individually tailoring
+proved successful for participants in Hanoi and Bang-
+     ARTICLE IN PRESS
+
+140  J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141
+
+interventions to the locations and societies in which they      Chuc, N. T., & Tomson, G. (1999). ``Doi moi'' and private
+will be implemented through formative research has                  pharmacies: A case study on dispensing and financial issues
+been shown.                                                         in Hanoi, Vietnam. European Journal of Clinical Pharma-
+                                                                    cology, 55(4), 325­332.
+Acknowledgements
+                                                                Dong, H., Bogg, L., Rehnberg, C., & Diwan, V. (1999). Drug
+   The project was financially supported by the Eur-                policy in China: Pharmaceutical distribution in rural areas.
+opean Union DG XII, INCO-DC, ERB3514PL950674.                       Social Science and Medicine, 48(6), 777­786.
+The WHO Essential Drugs and other Medicines (EDM)
+program provided funds for drug purchases. We would             Falkenberg, T., Nguyen, T. B., Larsson, M., Nguyen, T. D., &
+like to thank the staff at the studied pharmacies for their         Tomson, G. (2000). Pharmaceutical sector in transition--a
+participation. In Bangkok we thank the Health System                cross sectional study in Vietnam. Southeast Asian Journal of
+Research Institute, Chulalongkorn University and the                Tropical Medicine & Public Health, 31(3), 590­597.
+Community Pharmacy Association, and in Hanoi, the
+Health Strategy and Policy Institute, the College of            Goel, P., Ross-Degnan, D., Berman, P., & Soumerai, S. (1996).
+Pharmacy Hanoi School, the Hanoi Medical University,                Retail pharmacies in developing countries: A behavior and
+the Hanoi Health Bureau and, the Hanoi Pharmacy                     intervention framework. Social Science and Medicine, 42,
+Association. Pharm. Binh NT and Dr. Hiep HT played                  1155­1161.
+a major role in the organizing and monitoring of the
+SCM process in Hanoi and Patcharaporn Panyawuthik-              Greco, P. J., & Eisenberg, J. M. (1993). Changing physicians'
+rai, Siritree Suttajit, Duangtip Hongsamoot and Yupa-               practices (see comments). New England Journal of Medicine,
+dee Javrongrit did the same in Bangkok. Katha                       329, 1271­1273.
+Banditanukul performed an active role in the education
+and peer review interventions. We also thank core               Greenhalgh, T., & Hurwitz, B. (1999). Narrative based
+members of the international group, Prof. Gill Walt at              medicine: Why study narrative? British Medical Journal,
+the London School of Hygiene and Tropical Medicine                  318(7175), 48­50.
+as well as all team members of the EU-GPP consortium
+for being partners in design and method development.            Grol, R. (1990). Peer review in primary care. Quality Assurance
+                                                                    and Health Care, 2(2), 119­126.
+References
+                                                                Grol, R. (1992). Implementing guidelines in general practice
+Cederlof, C., & Tomson, G. (1995). Private pharmacies and the       care. Quality in Health Care, 1, 184­191.
+    health sector reform in developing countries--professional
+    and commerical highlights. Journal of Social and Adminis-   Grol, R., & Lawrence, M. (1995). Quality improvement by peer
+    trative Pharmacy, 12, 101­111.                                  review. Oxford: Oxford University Press.
+
+Chalker, J. (2001). Improving antibiotic prescribing in Hai     Gross, P., & Pujat, D. (2001). Implementing practice guidelines
+    Phong Province, Viet Nam: The antibiotic-dose indicator.        for appropriate antimicrobial usage: A systematic review.
+    Bulletin of the World Health Organization, 79(4), 313­320.      Medical Care, 39(8 Suppl. 2), II55­II69.
+
+Chalker, J., Chuc, N. T., Falkenberg, T., & Tomson, G. (2002).  Guiscafre, H., Martinez, H., Reyes, H., Perez-Cuevas, R.,
+    Private pharmacies in Hanoi, Vietnam: A randomized trial        Castro, R., Munoz, O., & Gutierrez, G. (1995). From
+    of a 2-year multi-component intervention on knowledge and       research to public health interventions. I. Impact of an
+    stated practice regarding ARI, STD and antibiotic/steroid       educational strategy for physicians to improve treatment
+    requests. Tropical Medicine & International Health, 7(9),       practices of common diseases. Archives of Medical Research,
+    803­810.                                                        26(Spec No), S31­S39.
+
+Chuc, N.T. (2002). Towards good pharmacy practice in Hanoi--    Gutierrez, G., Guiscafre, H., Bronfman, M., Walsh, J.,
+    a multi-intervention study in private sector, Division of       Martinez, H., & Munoz, O. (1994). Changing physician
+    International Health (IHCAR), Department of Public              prescribing patterns: Evaluation of an educational strategy
+    Health Sciences. Stockholm: Karolinska Institutet.              for acute diarrhea in mexico city. Medical Care, 32,
+                                                                    436­446.
+Chuc, N. T., Larsson, M., Do, N. T., Diwan, V., Tomson, G.,
+    & Falkenberg, T. (2002). Improving private pharmacy         Hongoro, C., & Kumaranayake, L. (2000). Do they work?
+    practice: A multi-intervention experiment in Hanoi, Viet-       Regulating for-profit providers in Zimbabwe. Health Policy
+    nam. Journal of Clinical Epidemiology, 55(11), 1148­1155.       and Planning, 15(4), 368­377.
+
+Chuc, N. T., Larsson, M., Falkenberg, T., Do, N. T., Binh, N.   Iles, V., & Sutherland, K. (2001). Managing Change in the
+    T., & Tomson, G. (2001). Management of childhood acute          NHS, Organizational change, a review for health care
+    respiratory infections at private pharmacies in Vietnam.        managers, professionals and researchers. In: National
+    Annals of Pharmacotherapy, 35(10), 1283­1288.                   Coordinating Centre for NHS Service Delivery and
+                                                                    Organization (Ed.), London: London School of Hygiene
+                                                                    and Tropical Medicine.
+
+                                                                Irvine, D. (1997). The performance of doctors. I: Profession-
+                                                                    alism and self regulation in a changing world. British
+                                                                    Medical Journal, 314(7093), 1540­1542.
+
+                                                                Kafle, K. (2001). Test of Strategies for Implementing STS in
+                                                                    Improving Use of Drugs. Report to the RPM Project.
+                                                                    Kathmandu, Nepal: INRUD Nepal.
+
+                                                                Kamat, V. R., & Nichter, M. (1998). Pharmacies, self-
+                                                                    medication and pharmaceutical marketing in Bombay,
+                                                                    India. Social Science and Medicine, 47(6), 779­794.
+
+                                                                Laing, R., Hogerzeil, H., & Ross-Degnan, D. (2001).
+                                                                    Ten recommendations to improve use of medicines in
+ARTICLE IN PRESS
+
+J. Chalker et al. / Social Science & Medicine 60 (2005) 131­141    141
+
+    developing countries. Health Policy and Planning, 16(1),       Sheldon, T., & Chalmers, I. (1994). The UK Cochrane Centre
+    13­20.                                                             and the NHS Centre for reviews and dissemination:
+Lansang, M. A., Lucas Aquino, R., Tupasi, T. E., Mina, V. S.,          Respective roles within the information systems stra-
+    Salazar, L. S., Juban, N., Limjoco, T. T., Nisperos, L. E., &      tegy of the NHS R&D programme, coordination and
+    Kunin, C. M. (1990). Purchase of antibiotics without               principles underlying collaboration. Health Economics, 3(3),
+    prescription in Manila, the Philippines. Inappropriate             201­203.
+    choices and doses. Journal of Clinical Epidemiology, 43,
+    61­67.                                                         Stenson, B., Syhakhang, L., Lundborg, C. S., Eriksson, B., &
+Lassen, L. C., & Kristensen, F. B. (1992). Peer comparison             Tomson, G. (2001). Private pharmacy practice and regula-
+    feedback to achieve rational and economical drug therapy in        tion. A randomized trial in Lao P.D.R. International Journal
+    general practice: A controlled intervention study. Scandina-       of Technology Assessment in Health Care, 17(4), 579­589.
+    vian Journal of Primary Health Care, 10, 76­80.
+Levy, S. (1995). Antimicrobial resistance: A global perspective.   Tangcharoensathien, V. (1992). A household survey of health
+    Advances in Experimental Medicine and Biology, 390, 1­13.          seeking behaviour in two districts of hai phong. Vietnam: Save
+Macaden, R., & Bhat, P. (1985). The changing pattern of                the Children Fund UK.
+    resistance to ampicillin and co-trimoxazole in Shigella
+    serotypes in Bangalore, southern India. Journal of Infectious  Tomson, G. B., & Sterky, G. (1986). Self-prescribing by way of
+    Disease, 152(6), 1348.                                             pharmacies in three Asian developing countries. Lancet,
+Marteau, T., Sowden, A., & Armstrong, D. (1998). Implement-            620­622.
+    ing research findings into practice: beyond the information
+    deficit model. In A. Haines, & A. Donald (Eds.), Getting       Van Duong, D., Binns, C. W., & Van Le, T. (1997). Availability
+    research findings into practice. London: BMJ Books.                of antibiotics as over-the-counter drugs in pharmacies: A
+Maynard, A. (1997). Evidence-based medicine: An incomplete             threat to public health in vietnam. Tropical Medicine &
+    method for informing treatment choices. Lancet, 349(9045),         International Health, 2, 1133­1139.
+    126­128.
+McIntyre, N., & Popper, K. (1983). The critical attitude in        van Eijk, M. E., Avorn, J., Porsius, A. J., & de Boer, A. (2001).
+    medicine: The need for a new ethics. British Medical Journal       Reducing prescribing of highly anticholinergic antidepres-
+    (Clin Res Ed), 287(6409), 1919­1923.                               sants for elderly people: Randomised trial of group versus
+Murray, B. E., Alvarado, T., Kim, K. H., Vorachit, M.,                 individual academic detailing. British Medical Journal,
+    Jayanetra, P., Levine, M. M., Prenzel, I., Fling, M., Elwell,      322(7287), 654­657.
+    L., & McCracken, G. H., et al. (1985). Increasing resistance
+    to trimethoprim-sulfamethoxazole among isolates of Es-         Veninga, C. C., Lagerlov, P., Wahlstrom, R., Muskova, M.,
+    cherichia coli in developing countries. Journal of Infectious      Denig, P., Berkhof, J., Kochen, M. M., & Haaijer-
+    Disease, 152(6), 1107­1113.                                        Ruskamp, F. M. (1999). Evaluating an educational inter-
+Ofori-Adjei, D., & Arhinful, D. K. (1996). Effect of training on       vention to improve the treatment of asthma in four
+    the clinical management of malaria by medical assistants in        European countries. Drug Education Project Group.
+    Ghana. Social Science and Medicine, 42, 1169­1176.                 American Journal of Respiratory & Critical Care Medicine,
+Oxman, A. D., Thomson, M. A., Davis, D. A., & Haynes, R. B.            160(4), 1254­1262.
+    (1995). No magic bullets: A systematic review of 102 trials
+    of interventions to improve professional practice. Canadian    Veninga, C. C., Lundborg, C. S., Lagerlov, P., Hummers-
+    Medical Association Journal, 153(10), 1423­1431.                   Pradier, E., Denig, P., & Haaijer-Ruskamp, F. M. (2000).
+Ratanawijitrasin, S. (2000). Final report of the good pharmacy         Treatment of uncomplicated urinary tract infections:
+    practice project in thailand. Bangkok Thailand: Health             Exploring differences in adherence to guidelines between
+    Systems Research Institute.                                        three European countries. Drug education project group.
+Ross-Degnan, D., Laing, R. O., Santoso, B., Ofori-Adjei, D.,           Annals of Pharmacotherapy, 34(1), 19­26.
+    Lamoureux, C., & Hogerzeil, H. V. (1997). Improving
+    pharmaceutical use in developing countries: a critical review  Wahlstrom, R., Lagerlov, P., Lundborg, C. S., Veninga, C. C.
+    of experience and lack of experience. Invited paper                M., Hummers-Pradier, E., Dahlgren, L. O., & Denig, P.
+    presented at the 1st International Conference for Improving        (2001). Variations in general practitioners' views of asthma
+    Use of Medicines, Chiang Mai, Thailand, 1997.                      management in four European countries. Social Science and
+Ross-Degnan, D., Soumerai, S. B., Goel, P. K., Bates, J.,              Medicine, 53(4), 507­518.
+    Makhulo, J., Dondi, N., Sutoto Adi, D., Ferraz-Tabor, L.,
+    & Hogan, R. (1996). The impact of face-to-face educational     Wahlstro¨ m, R., Kounnavong, S., Sisounthone, B., Phanyanou-
+    outreach on diarrhoea treatment in pharmacies. Health              vong, A., Southammavong, T., Eriksson, B., & Tomson, G.
+    Policy and Planning, 11, 308­318.                                  (2003). Effectiveness of feedback for improving case
+Santoso, B., Suryawati, S., & Prawaitasari, J. E. (1996). Small        management of malaria, diarrhoea and pneumonia--a
+    group intervention vs formal seminar for improving                 randomised controlled trial at provincial hospitals in Lao
+    appropriate drug use (published erratum appears in Soc             PDR. Tropical Medicine and International Health, 8(10),
+    Sci Med 1996 Jul;43(1):I). Social Science and Medicine, 42,        1­9.
+    1163­1168.
+                                                                   Wenzel, R. (1995). Control of antibiotic resistant organisms.
+                                                                       Journal of Infectious Diseases and Antimicrobial Agents,
+                                                                       12(1), 47­48.
+
+                                                                   WHO (2001). WHO global strategy for containment of
+                                                                       antimicrobial resistance. Geneva: World Health Organiza-
+                                                                       tion.
+
+                                                                   World-Bank (1995). Vietnam, Poverty Assessment and Strat-
+                                                                       egy. Washington, DC: World Bank Country Operation
+                                                                       Division, Country Department, East Asia and Pacific
+                                                                       Regions.
+

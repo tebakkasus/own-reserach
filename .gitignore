@@ -1,0 +1,25 @@
+# Sub-repos (punya .git sendiri)
+repos/
+
+# Large PDFs (papers — bisa >10MB each, GitHub limit 100MB)
+Papers_PDF/*.pdf
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Temp / build artifacts
+*.tmp
+*.bak
+*.log
+
+# R
+.Rhistory
+.RData
+.Rproj.user/

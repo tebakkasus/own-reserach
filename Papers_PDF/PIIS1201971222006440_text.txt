@@ -1,0 +1,753 @@
+
+
+============================================================
+ PAGE 1
+============================================================
+International Journal of Infectious Diseases 127 (2023) 137–143 
+Contents lists available at ScienceDirect 
+International Journal of Infectious Diseases 
+journal homepage: www.elsevier.com/locate/ijid 
+Impact of point-of-care C-reactive protein testing intervention on 
+non-prescription dispensing of antibiotics for respiratory tract 
+infections in private community pharmacies in Nigeria: a cluster 
+randomize d controlle d trial 
+Augustine Onwunduba 1 , ∗, Obinna Ekwunife 2 , Ebuka Onyilogwu 3 
+1 Department of Pharmaceutical Microbiology and Biotechnology, Nnamdi Azikiwe University, Awka, Nigeria 
+2 Department of Clinical Pharmacy and Pharmacy Management, Nnamdi Azikiwe University, Awka, Nigeria 
+3 Department of Pure and Industrial Chemistry, Nnamdi Azikiwe University, Awka, Nigeria 
+a r t i c l e 
+i n f o 
+Article history: 
+Received 27 September 2022 
+Revised 5 December 2022 
+Accepted 5 December 2022 
+Keywords: 
+Antibiotics 
+C-reactive protein 
+Community pharmacies 
+Cluster randomized controlled trial 
+Respiratory tract infections 
+a b s t r a c t 
+Objectives: To ascertain if access to C-reactive protein (CRP) test kits—and staff training on how to use 
+them in respiratory tract infection (RTI) management—in private community pharmacies (PCPs) can re- 
+duce non-prescription antibiotic dispensing for RTI. 
+Methods: A parallel cluster randomized controlled trial was conducted in Nigeria. The clusters—which 
+were equally the participating units—were PCPs with blood testing experience. Stratiﬁed block random- 
+ization was done. PCPs were stratiﬁed by the baseline value of the primary outcome. PCPs were not 
+blinded. The intervention PCPs were provided with CRP kits and trained to use them to make deci- 
+sions regarding non-prescription antibiotic dispensing for RTI. The control PCPs received no intervention. 
+The primary outcome was the non-prescription antibiotic dispensing rate for RTI. Data were collected 
+by blinded simulated clients who visited each PCP 30 times before and after the intervention without 
+prescriptions. Analyses were by intention-to-treat. 
+Results: Twenty PCPs were randomized, 1:1. Ten PCPs were analyzed in each arm. Each PCP contributed 
+30 data points to the multiple imputation analysis where antibiotic dispensing decreased by 15.66% 
+(209/300 [intervention] vs 256/300 [control]) in the adjusted analysis (odds ratio = 0 ·279, 95% conﬁ- 
+dence interval = 0.107-0.726; P -value = 0.0090) and 16% (208/300 [intervention] vs 256/300 [control]) in 
+the crude analysis (odds ratio = 0.299, 95% conﬁdence interval = 0.098-0.911; P -value = 0.034). 
+Conclusion: Access to CRP kits—and staff training on how to use them in RTI management—in PCPs re- 
+duced non-prescription antibiotic dispensing for RTI. 
+© 2022 The Author(s). Published by Elsevier Ltd on behalf of International Society for Infectious 
+Diseases. 
+This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ) 
+Introduction 
+Many bacteria in Nigeria have developed resistance to antibi- 
+otics [1] . This results in severe illnesses from infections and higher 
+healthcare costs. The inappropriate use of antibiotics is one of the 
+factors that facilitate the spread of resistant bacteria [ 2 , 3 ]. 
+Respiratory tract infection (RTI) is caused by viruses and bac- 
+teria, however, a majority of cases are caused by viruses [4] . It is 
+often diﬃcult to immediately distinguish viral and bacterial RTI in 
+the absence of specialized diagnostic tools [5] . Consequently, clini- 
+∗Corresponding author: Tel: + 2347061175220 
+E-mail address: ae.onwunduba@unizik.edu.ng (A. Onwunduba) . 
+cians, in the absence of such tools, are usually tempted to recom- 
+mend antibiotics to patients with RTI in an attempt to not miss 
+a potentially serious bacterial RTI [6] . This practice is problem- 
+atic, considering that patients with viral RTI will not beneﬁt from 
+antibiotics, and such unnecessary use of antibiotics facilitates the 
+spread of antibiotic resistance [3] . 
+According to the Federal House of Representatives of Nigeria, 
+there is a shortage of primary healthcare centers in Nigeria, with 
+less than 20% of the 30,0 0 0 primary healthcare centers in Nige- 
+ria functioning [7] . Consequently, private community pharmacies 
+(PCPs)—rather than primary healthcare centers—routinely provide 
+primary healthcare services [8] . In Nigeria, staff of PCPs includes 
+pharmacists and pharmacy assistants. The pharmacists have Bach- 
+elor of Pharmacy and/or Doctor of Pharmacy degrees. They manage 
+https://doi.org/10.1016/j.ijid.2022.12.006 
+1201-9712/© 2022 The Author(s). Published by Elsevier Ltd on behalf of International Society for Infectious Diseases. This is an open access article under the CC BY license 
+( http://creativecommons.org/licenses/by/4.0/ ) 
+
+
+============================================================
+ PAGE 2
+============================================================
+A. Onwunduba, O. Ekwunife and E. Onyilogwu 
+International Journal of Infectious Diseases 127 (2023) 137–143 
+Table 1 
+Research in context. 
+Details 
+Evidence before this 
+study 
+We searched the title, abstract, and keywords in Scopus using the following terms: ( (respiratory AND tract AND infection ∗) OR ( 
+upper AND respiratory AND tract AND infection ∗) OR rti OR urti ) AND ( antibiotic ∗) AND ( ( c-reactive AND protein ) OR ( c 
+AND reactive AND protein ) OR crp ) AND ( pharmacy OR pharmacies ). No restrictions were placed on the search. Two studies 
+that assessed the impact of access to CRP test kits—and staff training on how to use them in RTI management—in PCPs on the 
+rate at which patients with RTI subsequently visit general practitioners with the hope of getting antibiotic prescriptions were 
+found. They were conducted in the United Kingdom and Australia. 
+The added value of 
+this study 
+The studies found through our search did not assess the impact of access to CRP test kits—and staff training on how to use 
+them in RTI management—on the rate of non-prescription dispensing of antibiotics for RTI. Instead, they assessed the impact of 
+access to CRP test kits—and staff training on how to use them in RTI management—on the rate at which patients with RTI 
+subsequently visit general practitioners with the hope of getting antibiotic prescriptions. This means that no study has assessed 
+the impact of access to CRP test kits—and staff training on how to use them in RTI management—on the rate of non-prescription 
+dispensing of antibiotics for RTI in PCPs, a situation that is frequently seen in resource-limited settings. This study addresses 
+this gap by assessing how access to CRP test kits—and staff training on how to use them in RTI management—impacts the rate 
+at which PCPs objectively assess antibiotic needs in patients with RTI without prescriptions and the rate at which they dispense 
+antibiotics to such patients. 
+Implications of all the 
+available evidence 
+Access to CRP test kits—and staff training on how to use them in RTI management—in PCPs in Nigeria improved the objective 
+assessment of antibiotic needs in patients with RTI without prescriptions and reduced the dispensation of antibiotics to such 
+patients. All things being equal, if economic analysis shows that the cost of implementing this intervention in resource-limited 
+settings is manageable, its implementation by relevant stakeholders in such settings is recommended, as this would help reduce 
+the burden of antibiotic resistance. 
+CRP, C-reactive protein; PCPs, private community pharmacies; RTI, respiratory tract infection. 
+PCPs. Pharmacy assistants are well-trained by pharmacists to assist 
+in the day-to-day running of PCPs. They are supervised by pharma- 
+cists. PCPs provide consultation services to patients and then dis- 
+pense medications accordingly or refer them to hospitals [8] . This 
+role played by PCPs is very important as it ensures that primary 
+healthcare is not completely absent in many communities in Nige- 
+ria. However, it has its demerits, one of the most important is that 
+it could encourage the unnecessary use of antibiotics, as antibiotics 
+are frequently dispensed to patients without prescriptions. 
+Accordingly, most patients in Nigeria with RTI receive their 
+treatments from PCPs [8] . In their study to assess the non- 
+prescription dispensation of antibiotics to patients with RTI by 
+PCPs in Nigeria, Akpan et al. [9] found that antibiotics were rec- 
+ommended to 68% of such patients. 
+Plasma C-reactive protein (CRP) rises well above normal when 
+there is a bacterial infection [10] , and thus plasma CRP level can 
+be used to identify bacterial RTI. CRP testing is effective at reduc- 
+ing the unnecessary use of antibiotics for RTI without exposing pa- 
+tients to risks [11] . 
+This study aimed to ascertain if providing PCPs in Nigeria with 
+CRP test kits and training them on how to use them accordingly 
+in the management of RTI has the potential to improve their ob- 
+jective assessment of antibiotic needs in patients with RTI without 
+prescriptions and reduce their dispensation of antibiotics to such 
+patients. Table 1 shows the research in context. 
+Methodology 
+Study design 
+This trial was a parallel cluster randomized controlled trial. The 
+clusters were PCPs. Cluster randomization was used because clus- 
+ters were the targets of the intervention. The trial was conducted 
+in Awka, Nigeria. There are over 60 PCPs in Awka. The trial started 
+on January 21, 2022, and ended on July 23, 2022. 
+Participants 
+The trial clusters, PCPs, were also the participating units in this 
+trial. A PCP was considered eligible to be included in the study 
+if it is experienced with blood testing, ascertained by checking if 
+it provides malaria and/or typhoid blood test services. This was to 
+include PCPs that could adapt to the intervention procedure within 
+the timeframe available for the trial. The inclusion criteria orig- 
+inally stated in the protocol, including the presence of a PCP in 
+the database of the pharmacist council of Nigeria (PCN) and the 
+regular presence of a pharmacist registered with PCN in a PCP, 
+were not assessed because they could not be eﬃciently evaluated. 
+These changes to the inclusion criteria were made before the ﬁrst 
+PCP was recruited. In the ﬁrst instance, an eligibility assessment of 
+PCPs was done by a member of the research team. They presented 
+as a client to PCPs and asked pharmacy staff whether they pro- 
+vide malaria and typhoid test services. They told pharmacy staff
+that they would return for the test(s) where necessary. Follow- 
+ing the assessment, PCPs that met the inclusion criteria were ap- 
+proached by the principal investigator, and relevant details were 
+verbally provided to their managers. If a manager did not provide 
+consent, another eligible PCP was approached. Two written con- 
+sent forms were given to the managers, who provided consent, to 
+sign. The consent forms were equally signed by the principal in- 
+vestigator, who then left with one copy. 
+Randomization and masking 
+Eligible PCPs were randomly assigned to the intervention and 
+control arms on a 1:1 basis leveraging the stratiﬁed block random- 
+ization technique. This technique, rather than the block random- 
+ization originally stated in the protocol, was used to ensure that 
+PCPs were uniformly distributed between the study arms with re- 
+spect to the baseline value of the primary outcome. The decision 
+to use this technique was made before the ﬁrst PCP was recruited. 
+The statistical analysis plan was updated accordingly to reﬂect this 
+change. The stratiﬁcation variable was based on the percentage of 
+encounters (visits) in which an antibiotic was dispensed by PCPs at 
+baseline (details of how this information was collected are in the 
+“Outcomes” section). It had three strata: low, moderate, and high. 
+PCPs that dispensed antibiotics in < 70%, 70-89%, and ≥90% of 
+visits at baseline were, respectively, categorized into the low (four 
+PCPs), moderate (ten PCPs), and high (six PCPs) strata. Each stra- 
+tum had a separate list. The random sequence for each stratum 
+(consisting of 1s and 2s) was generated using a research random- 
+izer [12] and coded (specifying which number represented inter- 
+vention) by an individual who was not part of the trial team. Two 
+sets of random numbers (two numbers per set), ﬁve sets of ran- 
+dom numbers (two numbers per set), and three sets of random 
+numbers (two numbers per set) were, respectively, generated for 
+138
+
+
+============================================================
+ PAGE 3
+============================================================
+A. Onwunduba, O. Ekwunife and E. Onyilogwu 
+International Journal of Infectious Diseases 127 (2023) 137–143 
+the low, moderate, and high strata. By following the random se- 
+quence after it was shared with the research team, PCPs within the 
+list of each stratum were assigned 1 or 2 sequentially. The code 
+(specifying which number represented intervention) was shared 
+with the trial team after the assignments had been ﬁnalized. PCPs 
+were not masked to treatment assignment. The simulated clients 
+who collected data were masked. 
+Interventions 
+PCPs in the intervention arm were provided with CRP test kits 
+(the kits were specially produced for the trial by Zhuhai Encode 
+Medical Engineering Co., Ltd, China) and other test materials, and 
+their staff were trained on how to use the kits and how to use 
+test results to distinguish viral and bacterial etiologies in patients 
+with suspected RTI without prescriptions in order to make more 
+effective decisions regarding antibiotic dispensation. The CRP test 
+kits were semi-quantitative in nature. The cost of a single CRP test 
+kit was 0.75 $. The test involves using ﬁnger prick blood to assess 
+the level of CRP in the blood. Each test takes just over 5 minutes. It 
+has been shown that CRP concentrations > 30 mg/l in patients with 
+RTI are of great importance in the identiﬁcation of RTI that should 
+be managed with antibiotics [13] . Among patients with RTI, this 
+is best interpreted as those with CRP concentrations of > 30 mg/l 
+are likely to have bacterial RTI, while those with CRP concentra- 
+tions of ≤30 mg/l are likely to have viral RTI. Other studies suggest 
+that it is not unusual for many patients with viral RTI to have CRP 
+concentrations > 30 mg/l, albeit patients with viral RTI are unlikely 
+to have CRP concentrations > 100 mg/l [ 10 , 14 ]. Considering these, 
+regarding managing patients with suspected RTI without prescrip- 
+tions, pharmacy staff were advised not to dispense antibiotics to 
+patients with CRP concentrations < 30 mg/l, to use their clinical 
+judgment to come to a decision when patients have CRP concen- 
+trations ≥30 mg/l but < 100 mg/l, and to dispense antibiotics when 
+patients have CRP concentrations ≥100 mg/l. They were not dis- 
+couraged from using their professional judgment where necessary, 
+regardless of CRP test results. 
+Training, which included practical demonstration, was carried 
+out in each PCP by a pharmacist and a medical laboratory techni- 
+cian. The training was delivered, by the same professionals, in the 
+same way across the board. The staff of PCPs were provided with 
+training materials. They were asked to charge no more than 400 
+Nigerian Naira (approximately 1 $) per CRP test in order to en- 
+sure that low-income patients were not excluded. They were fol- 
+lowed up regularly throughout the post-intervention period, and 
+any problems they had were addressed. PCPs in the control arm 
+received no intervention. 
+Outcomes 
+The primary outcome was the rate at which antibiotics were 
+dispensed to patients with RTI without prescriptions, that is, the 
+proportion of visits in which antibiotics were dispensed. The sec- 
+ondary outcome was the rate at which a medical test for iden- 
+tifying bacterial RTI was conducted to inform decisions regarding 
+non-prescription antibiotic dispensation to patients with RTI, that 
+is, the proportion of visits in which relevant tests were conducted. 
+Data were collected by simulated clients who were students 
+of Nnamdi Azikiwe University, Nigeria, recruited by the research 
+team. The simulated clients were trained on what the data col- 
+lection entailed. The training was fundamentally delivered twice, 
+shortly after the simulated clients were recruited and a few days 
+before data collection started. Each training consisted of a 2-hour 
+lecture. The simulated clients were provided with training materi- 
+als. Following the second training, they were engaged in a 6-hour 
+role play in which some members of the research team acted as 
+pharmacy staff while the simulated clients acted as patients with 
+RTI. Any mistakes made by them were corrected by members of 
+the research team. On the day that each simulated client would 
+collect data, the research team member who supervised the data 
+collection discussed essential parts of the data collection protocol 
+with them. 
+At baseline, 30 simulated clients collected data over 30 data 
+collection days. On each data collection day, just one simulated 
+client visited and collected data from the 20 PCPs under the super- 
+vision of a member of the research team who monitored each visit 
+from a distance. Similarly, post-intervention, 30 simulated clients 
+collected data over 30 data collection days. On each data collec- 
+tion day, just one simulated client visited and collected data from 
+the 20 PCPs under the supervision of a member of the research 
+team who monitored each visit from a distance. The PCPs did not 
+anticipate the visits by the simulated clients. Male and female 
+simulated clients mostly collected data on alternate data collec- 
+tion days. On their data collection day, each simulated client was 
+told the symptoms of RTI to complain about. They complained of 
+the same symptoms across all the 20 PCPs. The symptoms com- 
+plained of over the 30 days of data collection at baseline, and 
+post-intervention can be found in the appendix. These symptoms 
+were developed leveraging the common symptoms of RTI as docu- 
+mented in the literature [15–17] . 
+After presenting their symptoms without any prescriptions, 
+they asked the pharmacy staff what the best treatments for their 
+symptoms were. They did not request any particular treatments. 
+They did not admit to having any other symptoms outside what 
+they had been told to complain about. They also did not admit to 
+already visiting a doctor or taking any medications. They noted if 
+relevant medical tests were ordered by pharmacy staff to deter- 
+mine suitable treatments and memorized any drugs they recom- 
+mended. To aid memorization, they mostly memorized the brand 
+names of drugs, these were subsequently categorized as antibiotic 
+or non-antibiotic by a pharmacist. To ensure good simulation, they 
+paid for tests ordered and/or drugs recommended by pharmacy 
+staff. On visits where the budget for drugs was exceeded, they told 
+pharmacy staff that they would return at a later time to purchase 
+recommended drugs. At the end of each visit, they recorded the 
+data collected on a structured data collection form held by the 
+member of the research team who supervised them. 
+Statistics 
+The number of PCPs included in this trial, and the number of 
+visits assessed in each PCP at baseline and post-intervention was 
+based on the recommendations of the World Health Organization 
+[18] regarding the number of facilities and visits to be assessed 
+when evaluating the impact of interventions on drug use practices 
+in healthcare facilities. According to the recommendation, there 
+should be at least ten healthcare facilities in the intervention arm 
+and ten healthcare facilities in the control arm, and data should be 
+collected from at least 30 clinical visits/encounters in each of the 
+healthcare facilities at baseline and post-intervention. 
+Missing post-intervention data were multiply imputed in R 
+(version 4.2.1) using the jomoImpute function of the mitml pack- 
+age (version 0.4.3) [19] . For the multiple imputation regarding the 
+adjusted analysis, the multiple imputation model included the pri- 
+mary and secondary outcome variables as target variables; treat- 
+ment status, stratiﬁcation, and simulated client gender variables as 
+ﬁxed effect predictor variables; and PCP identiﬁcation variable as 
+a cluster indicator variable. The difference in the multiple impu- 
+tation regarding the crude analysis was that the ﬁxed effect pre- 
+dictor variable was just the treatment status variable. Regarding 
+missing baseline data, missing primary outcome data were mul- 
+tiply imputed using jomoImpute, with the primary outcome vari- 
+139 
+
+
+============================================================
+ PAGE 4
+============================================================
+A. Onwunduba, O. Ekwunife and E. Onyilogwu 
+International Journal of Infectious Diseases 127 (2023) 137–143 
+Table 2 
+Demographic characteristics of simulated clients who collected 
+post-intervention and baseline data. 
+Post-intervention 
+(n = 30) 
+Baseline 
+(n = 30) 
+Gender 
+Female 
+15 (50%) 
+14 (46.67%) 
+Male 
+15 (50%) 
+16 (53.33%) 
+Age 
+18-21 
+11 (36.67%) 
+17 (56.67%) 
+22-25 
+19 (63.33%) 
+13 (43.33%) 
+Data in the post-intervention and baseline columns are number 
+of simulated clients (%). 
+able as the target variable and the PCP identiﬁcation variable as the 
+cluster indicator variable. In every case of multiple imputation, 20 
+imputations were generated because this number of imputations is 
+adequate [20] . Convergence was assessed using the potential scale 
+reduction factor. 
+Analyses were by intention-to-treat. Relevant frequencies were 
+computed using SPSS Statistics 24. Relevant percentages were then 
+computed accordingly. For the adjusted analysis, using the glmer 
+function of the Ime4 package (version 1.1.30) in R [21] , a gen- 
+eralized linear mixed-effects model based on random intercept; 
+with the treatment status, stratiﬁcation, and simulated client gen- 
+der variables as ﬁxed effects, and PCP identiﬁcation variable as a 
+random effect; was used to ascertain if there was a signiﬁcant dif- 
+ference in the rate at which antibiotics were dispensed in the in- 
+tervention and control arms after the intervention. The difference 
+in the crude analysis was that the ﬁxed effect was just the treat- 
+ment status variable. The random effect was used to account for 
+any correlation in the data repeatedly collected from each PCP. The 
+stratiﬁcation variable was taken into account because not doing so 
+could lead to wrong P -values and conﬁdence intervals (CIs) [22] . 
+Analysis was based on the multiply imputed dataset—multiple im- 
+putation analysis, and also based on the original dataset with miss- 
+ing data—complete case analysis. 
+Results 
+Sixty-four PCPs were assessed for eligibility. Forty-one did not 
+meet the inclusion criteria. Recruitment of PCPs took place from 
+January 21, 2022, to February 17, 2022. Three PCPs that met the 
+inclusion criteria were excluded because their managers did not 
+provide consent. Twenty PCPs that met the inclusion criteria were 
+included in the trial and randomized. Ten PCPs were randomly as- 
+signed to each of the intervention and control arms. They were all 
+treated accordingly. None of the PCPs that were randomized with- 
+drew. The trial ended on July 23, 2022, when post-intervention 
+data collection was completed. In ﬁve of the 600 visits (0.83%) at 
+baseline, no data were collected. For the control arm, in seven of 
+the 300 (2.33%) visits post-intervention, no data were collected. 
+For the intervention arm, in one of the 300 visits (0.33%) post- 
+intervention, no data were collected. These were mostly because 
+the concerned PCPs were closed or did not have relevant drugs in 
+stock when simulated clients visited. Please see Figure 1 for more 
+information. 
+The simulated clients that collected data at baseline and 
+post-intervention mostly had similar demographic characteristics 
+( Table 2 ). PCPs in the intervention and control arms had similar 
+characteristics with respect to the baseline value of the outcomes 
+( Table 3 ). 
+Regarding the primary outcome in the adjusted analysis 
+( Table 4 ), in the multiple imputation analysis, antibiotics were 
+dispensed to simulated clients in 209/300 (69.67%) and 256/300 
+(85.33%) visits in the intervention and control arms, respectively, 
+(odds ratio = 0.279, 95% CI = 0.107-0.726; P -value = 0.0090; ab- 
+solute reduction in antibiotic dispensation = 15.66%). Regarding 
+the primary outcome in the crude analysis ( Table 4 ), in the mul- 
+tiple imputation analysis, antibiotics were dispensed to simulated 
+clients in 208/300 (69.33%) and 256/300 (85.33%) visits in the in- 
+tervention and control arms, respectively, (odds ratio = 0.299, 95% 
+CI = 0.098-0.911; P -value = 0.034; absolute reduction in antibiotic 
+dispensation = 16%). 
+Regarding the secondary outcome ( Table 5 ), in the multiple im- 
+putation analysis, medical tests for identifying bacterial RTI (CRP 
+tests) were conducted on simulated clients in 65/300 (21.67%) and 
+0/300 (0%) visits in the intervention and control arms, respectively. 
+Based on the complete case analysis, antibiotics were not subse- 
+quently dispensed in 28/64 (43.75%) of the visits in which CRP 
+tests were conducted. 
+Discussion 
+This is the ﬁrst study to assess the impact of access to CRP test 
+kits—and staff training on how to use them in RTI management—
+on the non-prescription dispensation of antibiotics for RTI in PCPs, 
+a situation that is largely seen in many resource-limited set- 
+tings [ 9 , 23 , 24 ]. Previous studies that assessed the impact of ac- 
+cess to CRP test kits—and staff training on how to use them in RTI 
+management—in PCPs [ 25 , 26 ] focused on how the rate at which 
+patients subsequently visit a general practitioner with the hope of 
+receiving an antibiotic prescription got affected. 
+This study shows that access to CRP test kits—and staff train- 
+ing on how to use them in RTI management—in PCPs reduces 
+the non-prescription dispensation of antibiotics for RTI, as there 
+was an absolute reduction—in the non-prescription dispensation of 
+antibiotics—of 15.66% and 16%, based on the multiple imputation 
+regarding the adjusted analysis and crude analysis respectively. 
+Before making treatment decisions, PCPs in the intervention 
+arm conducted CRP tests on simulated clients in 21.40% of vis- 
+its and 21.67% of visits, based on the complete case analysis and 
+multiple imputation analysis, respectively. No such tests were con- 
+ducted in the control arm. The results of the CRP tests (that is, 
+viral or bacterial or uncertain) were not explicitly assessed. How- 
+ever, considering that the simulated clients were healthy adults, 
+they were all expected to have CRP levels of < 30 mg/l (and hence 
+the CRP tests should suggest that they require no antibiotics). An- 
+tibiotics were not dispensed in 43.75% of the visits in which CRP 
+tests were conducted, based on the complete case analysis. 
+Although the percentage of visits in which CRP tests were con- 
+ducted is not quite high, the observed uptake of CRP testing sug- 
+gests that CRP testing in PCPs is feasible. At the end of the trial, 
+key pharmacy staff in the intervention arm were interviewed to as- 
+certain any challenges they had regarding CRP testing. This will be 
+reported separately and will, hopefully, provide insight into strate- 
+gies that could be used to improve the uptake of CRP testing in 
+future interventions of this kind. 
+The ﬁndings of this trial are similar to that of a trial conducted 
+in Vietnam, a resource-limited setting, to assess the impact of ac- 
+cess to CRP test kits—and staff training on how to use them in 
+RTI management—in primary healthcare centers on antibiotic use 
+for RTI. In the trial, Do et al. [11] reported that access to CRP test 
+kits—and staff training on how to use them in RTI management—
+reduced antibiotic prescribing for RTI by 20%. This suggests that 
+access to CRP test kits—and staff training on how to use them in 
+RTI management—is as effective in reducing healthcare practition- 
+ers’ offer of antibiotics for RTI in PCPs as it is in primary healthcare 
+centers in resource-limited settings. 
+Given that PCPs play an important role in the unnecessary 
+use of antibiotics for RTI in resource-limited settings as they fre- 
+quently dispense antibiotics to patients with RTI without prescrip- 
+tions [ 9 , 23 , 24 ], an intervention of this nature has the potential to 
+improve antibiotic use for RTI and therefore reduce the spread of 
+140 
+
+
+============================================================
+ PAGE 5
+============================================================
+A. Onwunduba, O. Ekwunife and E. Onyilogwu 
+International Journal of Infectious Diseases 127 (2023) 137–143 
+Figure 1. Trial proﬁle. 
+PCP, private community pharmacy. 
+Table 3 
+Characteristics of private community pharmacies regarding the percentage of visits in which antibiotics were dispensed, and the percentage 
+of visits in which relevant tests were conducted, at baseline. 
+Analysis 
+Percentage 
+Relative interpretation 
+Intervention (n = 10) 
+Control (n = 10) 
+Visits in which antibiotics 
+were dispensed 
+Multiple 
+imputation 
+< 70% 
+Low 
+2 (20%) 
+2 (20%) 
+70-89% 
+Moderate 
+5 (50%) 
+5 (50%) 
+≥90% 
+High 
+3 (30%) 
+3 (30%) 
+Visits in which relevant tests 
+were conducted 
+Complete case 
+0% 
+- 
+10 (100%) 
+10 (100%) 
+Data in the intervention and control columns are number of private community pharmacies (%). 
+Table 4 
+Post-intervention visits in which antibiotics were dispensed. 
+Intervention 
+Control 
+Odds ratio (95% conﬁdence interval) 
+P -value 
+AE 
+Adjusted analysis 
+Multiple imputation 
+209/300 (69.67%) 
+256/300 (85.33%) 
+0.279 (0.107-0.726) 
+0.0090 
+15.66% 
+Complete case 
+208/299 (69.57%) 
+250/293 (85.32%) 
+0.273 (0.104- 0.716) 
+0.0083 
+15.75% 
+Crude analysis 
+Multiple imputation 
+208/300 (69.33%) 
+256/300 (85.33%) 
+0.299 (0.098- 0.911) 
+0.034 
+16% 
+Complete case 
+208/299 (69.57%) 
+250/293 (85.32%) 
+0.297 (0.097-0.907) 
+0.033 
+15.75% 
+AE, absolute effect. 
+Data in the intervention and control columns are events/n (%). Data in AE are the absolute difference between the percentages in the intervention and 
+control columns. 
+141 
+
+
+============================================================
+ PAGE 6
+============================================================
+A. Onwunduba, O. Ekwunife and E. Onyilogwu 
+International Journal of Infectious Diseases 127 (2023) 137–143 
+Table 5 
+Post-intervention visits in which relevant tests (C-reactive protein tests) were conducted, with clariﬁcation regarding those 
+without subsequent antibiotic dispensation. 
+Analysis 
+Intervention 
+Control 
+AE 
+Visits in which relevant tests were conducted 
+Multiple imputation 
+65/300 (21.67%) 
+0/300 (0%) 
+21.67% 
+Complete case 
+64/299 (21.40%) 
+0/293 (0%) 
+21.40% 
+Visits without antibiotic dispensation following 
+relevant tests 
+Complete case 
+28/64 (43.75%) 
+- 
+- 
+AE, absolute effect. 
+Data in the intervention and control columns are events/n (%). Data in AE are the absolute difference between the percent- 
+ages in the intervention and control columns. The multiple imputation model is that of the adjusted analysis. 
+antibiotic resistance when implemented in such settings. If eco- 
+nomic analysis shows that the cost of implementing this inter- 
+vention in resource-limited settings is manageable, then—all things 
+being equal—its implementation by relevant stakeholders in such 
+settings is recommended, as this would be very helpful in the ﬁght 
+against antibiotic resistance. 
+Regarding generalisability, antibiotic dispensation for RTI in 
+children was not captured as all the simulated clients were adult 
+university students who were the only population group read- 
+ily available to work as simulated clients within the resources 
+available for the study. This may limit the generalizability of the 
+ﬁndings of this study to the pediatric population. Additionally, it 
+may be that PCPs that fail to meet the inclusion criteria differ 
+signiﬁcantly—with respect to blood testing experience—from those 
+that were included in the study, thereby threatening the general- 
+izability of the ﬁndings of this study to them. However, this is un- 
+likely to be the case. Malaria and typhoid tests were preferentially 
+used to assess blood testing experience solely because the con- 
+cerned conditions are not sensitive as to make the individual who 
+assessed eligibility uncomfortable. Most PCPs that fail to meet the 
+inclusion criteria are likely to be equally experienced with blood 
+testing by virtue of offering other blood test services, including 
+blood glucose test, which is routinely offered by PCPs in Nigeria 
+[8] . 
+Regarding limitations, this study did not investigate what would 
+happen if patients without prescriptions directly requested to be 
+given antibiotics for their RTI rather than merely complaining 
+about their RTI symptoms. This could be addressed in future trials. 
+In addition, although pharmacy staff did not anticipate the visits by 
+the simulated clients, it is not possible to say with certainty that 
+there was no Hawthorne effect. Therefore, this effect may have 
+contributed to some of the effects observed in this study. 
+Access to CRP test kits—and staff training on how to use them 
+in RTI management—in PCPs in Nigeria improved the objective as- 
+sessment of antibiotic needs in patients with RTI without prescrip- 
+tions and reduced the dispensation of antibiotics to such patients. 
+All things being equal, if economic analysis shows that the cost 
+of implementing this intervention in resource-limited settings is 
+manageable, its implementation by relevant stakeholders in such 
+settings is recommended, as this would help reduce the burden of 
+antibiotic resistance. 
+Funding 
+This trial was funded by the Royal Society of Tropical Medicine 
+and Hygiene, UK, in partnership with the National Institute for 
+Health and Care Research, UK. 
+Ethical approval 
+This trial was approved by the Research Ethics Committee 
+of Chukwuemeka Odumegwu Ojukwu University Teaching Hospi- 
+tal, Awka, Nigeria. Assigned Number: COOUTH/CMAC/ETH.C/VOL.1/ 
+FN:04/136. 
+Author contributions 
+AO conceived the idea, designed the trial, and secured fund- 
+ing. AO developed the protocol, obtained ethics approval, and reg- 
+istered the trial. AO and EO implemented the trial. AO processed 
+and analysed the data. AO, OE, and EO had full access to, and ver- 
+iﬁed, the data. AO drafted the manuscript. AO, OE, and EO revised 
+and approved the manuscript for submission. AO had ﬁnal respon- 
+sibility for the decision to submit for publication. 
+Registration 
+This trial was prospectively registered at the Pan African Clinical 
+Trials Registry. Its registration number is PACTR202111611256940. 
+Trial protocol 
+The trial protocol will be available to researchers who request 
+it from the corresponding author. 
+Declaration of interests 
+The authors declare no competing interests. 
+Acknowledgment 
+This trial was funded by the Royal Society of Tropical Medicine 
+and Hygiene, UK, in partnership with the National Institute for 
+Health and Care Research, UK. The funders did not contribute to 
+the study design, data collection, data analysis and interpretation, 
+manuscript writing, and submission. The authors thank the fun- 
+ders. 
+Supplementary materials 
+Supplementary material associated with this article can be 
+found, in the online version, at doi:10.1016/j.ijid.2022.12.006 . 
+References 
+[1] Musa BM, Imam H, Lendel A, et al. The burden of extended-spectrum β- 
+lactamase-producing Enterobacteriaceae in Nigeria: a systematic review and 
+meta-analysis. Trans R Soc Trop Med Hyg 2020; 114 :241–8. doi: 10.1093/trstmh/ 
+trz125 . 
+[2] Odenholt I, Gustafsson I, Löwdin E, Cars O. Suboptimal antibiotic dosage as 
+a risk factor for selection of penicillin-resistant streptococcus pneumoniae: in 
+vitro kinetic model. Antimicrob Agents Chemother 2003; 47 :518–23. doi: 10.1128/ 
+AAC.47.2.518-523.2003 . 
+[3] Riedel S, Beekmann SE, Heilmann KP, et al. Antimicrobial use in Europe and 
+antimicrobial resistance in streptococcus pneumoniae. Eur J Clin Microbiol In- 
+fect Dis 2007; 26 :485–90. doi: 10.1007/s10096- 007- 0321- 5 . 
+[4] Ieven M, Coenen S, Loens K, et al. Aetiology of lower respiratory tract infection 
+in adults in primary care: a prospective study in 11 European countries. Clin 
+Microbiol Infect 2018; 24 :1158–63. doi: 10.1016/j.cmi.2018.02.004 . 
+[5] Whaley LE, Businger AC, Dempsey PP, Linder JA. Visit complexity, diagnostic 
+uncertainty, and antibiotic prescribing for acute cough in primary care: a ret- 
+rospective study. BMC Fam Pract 2013; 14 :120. doi: 10.1186/1471- 2296- 14- 120 . 
+142 
+
+
+============================================================
+ PAGE 7
+============================================================
+A. Onwunduba, O. Ekwunife and E. Onyilogwu 
+International Journal of Infectious Diseases 127 (2023) 137–143 
+[6] Horwood J, Cabral C, Hay AD, Ingram J. Primary care clinician antibiotic pre- 
+scribing decisions in consultations for children with rtis: a qualitative inter- 
+view study. Br J Gen Pract 2016; 66 :e207–13. doi: 10.3399/bjgp16X683821 . 
+[7] Baiyewu L. Less than 20% of Nigeria’s health centres working –
+reps ; 
+2021 https:// punchng.com/ less- than- 20- of- nigerias- health- centres- working- reps/
+[accessed 07 July 2022] . 
+[8] Ihekoronye MR, Osemene KP. Evaluation of the participation of community 
+pharmacists in primary healthcare services in Nigeria: a mixed-method sur- 
+vey. Int J Health Policy Manag 2022; 11 :829–39. doi: 10.34172/ijhpm.2020.224 . 
+[9] Akpan RM, Udoh EI, Akpan SE, Ozuluoha CC. Community pharmacists’ man- 
+agement of self-limiting infections: a simulation study in Akwa Ibom State, 
+south-south Nigeria. Afr Health Sci 2021; 21 :576–84. doi: 10.4314/ahs.v21i2.12 . 
+[10] Hjortdahl P, Landaas S, Urdal P, Steinbakk M, Fuglerud P, Nygaard B. C-reactive 
+protein: a new rapid assay for managing infectious disease in primary health 
+care. Scand J Prim Health Care 1991; 9 :3–10. doi: 10.3109/02813439109026574 . 
+[11] Do NT, Ta NT, Tran NT, et al. Point-of-care C-reactive protein testing to re- 
+duce inappropriate use of antibiotics for non-severe acute respiratory infec- 
+tions in Vietnamese primary health care: a randomised controlled trial. Lancet 
+Glob Health 2016; 4 :e633–41. doi: 10.1016/S2214-109X(16)30142-5 . 
+[12] Urbaniak G, Plous S. Research randomizer, version 4.0; 2013. [Computer soft- 
+ware], https://www.randomizer.org/ . 
+[13] van Vugt SF, Broekhuizen BD, Lammens C, et al. Use of serum C reactive pro- 
+tein and procalcitonin concentrations in addition to symptoms and signs to 
+predict pneumonia in patients presenting to primary care with acute cough: 
+diagnostic study. BMJ 2013; 346 :f2450. doi: 10.1136/bmj.f2450 . 
+[14] Putto A, Meurman O, Ruuskanen O. C-reactive protein in viral and bacterial 
+infections. Pediatr Res 1985; 19 :1103. doi: 10.1203/0 0 0 06450-198510 0 0 0-0 0199 . 
+[15] Altiner A, Wilm S, Däubener W, et al. Sputum colour for diagnosis of a 
+bacterial infection in patients with acute cough. Scand J Prim Health Care 
+2009; 27 :70–3. doi: 10.1080/02813430902759663 . 
+[16] Kuchar E, Mi ´skiewicz K, Nitsch-Osuch A, Szenborn L. Pathophysiology of clin- 
+ical symptoms in acute viral respiratory tract infections. Adv Exp Med Biol 
+2015; 857 :25–38. doi: 10.1007/5584 _ 2015 _ 110 . 
+[17] National Health Service UK Sore throat ; 2021 https:// www.nhs.uk/ conditions/ 
+sore-throat/ [accessed 21 August 2022] . 
+[18] World Health Organization How to investigate drug use in health facili- 
+ties ; 1993 https:// apps.who.int/ iris/ bitstream/ handle/ 10665/ 60519/ WHO _ DAP _ 93.1. 
+pdf/ [accessed 07 July 2022] . 
+[19] Grund S, Robitzsch A, Luedtke O. mitml: tools for Multiple Imputation in 
+Multilevel Modelling (R package version 0.4.3) ; 2021 https://CRAN.R-project.org/ 
+package=mitml/ [accessed 21 August 2022] . 
+[20] Schafer JL, Graham JW. Missing data: our view of the state of the art. Psychol 
+Methods 2002; 7 :147–77. doi: 10.1037/1082-989x.7.2.147 . 
+[21] Bates D, Mächler M, Bolker B, Walker S. Fitting linear mixed-effects models 
+using lme4. J Stat Soft 2015; 67 :1–48. doi: 10.18637/jss.v067.i01 . 
+[22] Kahan BC, Morris TP. Reporting and analysis of trials using stratiﬁed randomi- 
+sation in leading medical journals: review and reanalysis. BMJ 2012; 345 :e5840. 
+doi: 10.1136/bmj.e5840 . 
+[23] Chen J, Wang Y, Chen X, Hesketh T. Widespread illegal sales of antibiotics in 
+Chinese pharmacies – a nationwide cross-sectional study. Antimicrob Resist In- 
+fect Control 2020; 9 :12. doi: 10.1186/s13756- 019- 0655- 7 . 
+[24] Zawahir S, Le HTT, Nguyen TA, et al. Inappropriate supply of antibiotics for 
+common viral infections by community pharmacies in Vietnam: a standard- 
+ised patient survey. Lancet Reg Health West Pac 2022; 23 :100447. doi: 10.1016/j. 
+lanwpc.2022.100447 . 
+[25] Sim TF, Chalmers L, Czarniak P, et al. Point-of-care C-reactive protein test- 
+ing to support the management of respiratory tract infections in commu- 
+nity pharmacy: a feasibility study. Res Social Adm Pharm 2021; 17 :1719–26. 
+doi: 10.1016/j.sapharm.2021.01.004 . 
+[26] Wakeman M, Cork T, Watwood D. Point-of-care C-reactive protein testing in 
+community pharmacy to deliver appropriate interventions in respiratory tract 
+infections. Pharm J 2018; 10 :5. doi: 10.1211/PJ.2018.20204635 . 
+143 

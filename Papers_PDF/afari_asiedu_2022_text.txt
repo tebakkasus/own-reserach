@@ -1,0 +1,2239 @@
+
+
+=== PAGE 1 ===
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Contents lists available at ScienceDirect 
+Journal of Global Antimicrobial Resistance 
+journal homepage: www.elsevier.com/locate/jgar 
+Review 
+Interventions to improve dispensing of antibiotics at the community 
+level in low and middle income countries: a systematic review 
+Samuel Afari-Asiedu a , b , c , ∗, Martha Ali Abdulai a , Alma Tostmann b , c , Ellen Boamah-Kaali a , 
+Kwaku Poku Asante a , Heiman F.L. Wertheim b , c , 1 , Marlies Hulscher b , d , 1 
+a Kintampo Health Research Centre, Research and Development Division, Ghana Health Service, Kintampo, Bono East Region, Ghana 
+b Radboud University Medical Center, Center for Infectious Diseases Nijmegen, The Netherlands 
+c Radboud University Medical Center, Radboud Institute for Health Sciences, Department of Medical Microbiology, Nijmegen, The Netherlands 
+d Radboud University Medical Center, Radboud Institute for Health Sciences, Scientiﬁc Center for Quality of Healthcare, Nijmegen, The Netherlands 
+a r t i c l e 
+i n f o 
+Article history: 
+Received 12 December 2021 
+Revised 28 February 2022 
+Accepted 14 March 2022 
+Available online 25 March 2022 
+Editor: Professor Evangelos 
+Giamarellos-Bourboulis 
+Keywords: 
+Antibiotic dispensing 
+Interventions 
+Over-the-counter medicine sellers 
+Community health post 
+Low- and middle-income countries 
+a b s t r a c t 
+Objectives: Inappropriate antibiotic dispensing is one of the key drivers of antibiotic resistance. This re- 
+view documents the effectiveness of interventions aimed at improving antibiotic dispensing practices at 
+the community level by drug dispensers in low- and middle-income countries (LMIC). 
+Methods: We conducted a systematic search in PubMed, EMBASE, Cochrane Central Register of Controlled 
+Trials and Web of Science (11 November 2019). Studies were included if they reported data on the out- 
+come measure: appropriate dispensing of medicine including antibiotics. The effectiveness of studies was 
+assessed based on quantitative results reported in the studies included. 
+Results: A total of 1158 articles were screened. Thirteen studies from Asia (six), Africa (ﬁve) and South 
+America (one) and one study from both Africa and Asia were included in this review. Nine (69.2%) stud- 
+ies reported signiﬁcant effectiveness of interventions on all or more than 50% of antibiotic-related out- 
+comes. Cochrane Effective Practice and Organization of Care interventions frequently applied were educa- 
+tional meetings (9/13), distribution of educational materials (7/13), educational outreach meetings (7/13), 
+reminders (6/13), local consensus processes (6/13), distribution of supplies (6/14) and clinical practice 
+guidelines (4/14), Nine studies reported on stakeholder involvement. 
+Conclusion: This review shows that it is possible to improve antibiotic dispensing practices at the com- 
+munity level in LMIC. Stakeholders’ involvement was key in the design and implementation of interven- 
+tions. 
+© 2022 The Author(s). Published by Elsevier Ltd on behalf of International Society for Antimicrobial 
+Chemotherapy. 
+This is an open access article under the CC BY-NC-ND license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) 
+1. Introduction 
+Globally, antimicrobial resistance is a major public health chal- 
+lenge, particularly in low- and middle-income countries (LMIC) [1–
+3] . Antimicrobial resistance is largely attributed to inappropriate 
+antibiotic access and use [ 1 , 2 , 4 ]. Community health posts (CHPs), 
+over-the-counter medicine sellers (OTCMSs) and community phar- 
+macies are important sources of healthcare in LMIC, especially in 
+∗Corresponding author. Mailing address: Kintampo Health Research Centre, Re- 
+search and Development Division, Ghana Health Service, P.O Box 200, Kintampo, 
+Bono East Region, Ghana. 
+E-mail address: samuel.afari-asiedu@kintampo-hrc.org (S. Afari-Asiedu) . 
+1 Joint last authors. 
+rural and hard-to-reach communities [5–7] . In Ghana, about 80% 
+of medicine outlets in rural communities are OTCMSs [8] . Simi- 
+larly, community pharmacies in some Asian countries are major 
+sources of healthcare for common illness in rural areas [9–11] . 
+CHPs, OTCMSs and community pharmacies supply treatment for 
+malaria [12–18] , sexually transmitted infections and acute respira- 
+tory infections [ 9 , 10 , 19 , 20 ], among others. 
+In many LMIC, CHPs, OTCMSs and community pharmacies dis- 
+pense ‘prescription only’ medicines including antibiotics, which is 
+against regulations [12] . Effort s by regulators to supervise and pre- 
+vent especially OTCMSs from dispensing antibiotics have not pro- 
+duced the desired result. Dispensing of antibiotics and other es- 
+sential medicine by CHPs, OTCMSs and community pharmacies is 
+a pharmaceutical regulatory issue that creates tension between 
+https://doi.org/10.1016/j.jgar.2022.03.009 
+2213-7165/© 2022 The Author(s). Published by Elsevier Ltd on behalf of International Society for Antimicrobial Chemotherapy. This is an open access article under the CC 
+BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) 
+
+
+=== PAGE 2 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+regulators and dispensers [21] . Regulation enforcement is inter- 
+preted by OTCMSs as interference in their market space and is met 
+with resistance and evasion [12] . 
+Considering the inadequacies in health service delivery, proper 
+dispensing of antibiotics (according to guidelines) by CHPs, 
+OTCMSs and community pharmacies is crucial in the ﬁght against 
+antibiotic resistance (ABR) as they are closest to the communities 
+[21] . This underscores the need to develop evidence-informed in- 
+terventions that equip CHPs, OTCMSs and community pharmacies 
+to dispense antibiotics appropriately [21] . To inform future public 
+health policies and to make recommendations on such interven- 
+tions to governments and stakeholders in LMIC, synthesized data 
+on the effectiveness of studies previously performed to improve 
+dispensing practices of CHPs, OTCMSs and community pharmacies 
+on antibiotic dispensing and other essential medicines are impor- 
+tant. 
+This systematic review documents (i) the effectiveness of inter- 
+ventions to improve the dispensing of antibiotics by CHPs, OTCMSs 
+and community pharmacies in LMIC and (ii) the determinants of 
+success or failure of these interventions. 
+2. Methods 
+2.1. Search strategy 
+We searched PubMed, Embase, Cochrane Central Register of 
+Controlled Trials and Web of Science for papers on the effective- 
+ness of interventions to improve antibiotics dispensing by CHPs, 
+OTCMSs and community pharmacies in LMIC, published from Jan- 
+uary 1990 up to 11 November 2019 (Supplementary Appendix S1). 
+We also used keywords/phrases (antibiotic dispensing, appropriate 
+antibiotic dispensing, interventions to improve antibiotic dispens- 
+ing and LMIC) to conduct web searching in Google and Google 
+Scholar for grey literature. EndNote X7 was used to aggregate 
+search results. Duplicate studies were removed. All titles and ab- 
+stracts were screened by one author (SAA) and 25% were indepen- 
+dently screened by another author (MAA). The full texts of all po- 
+tentially relevant articles were assessed by both authors for eligi- 
+bility. Any disagreement was resolved through discussion. We also 
+reviewed reference lists of included studies/papers to identify rel- 
+evant papers. 
+2.2. Inclusion and exclusion criteria 
+We included studies that reported on the effectiveness of inter- 
+ventions to improve dispensing of medicines including antibiotics 
+by CHPs, OTCMSs and community pharmacies in a LMIC setting 
+according to the deﬁnition of the World Bank [22] . First, titles and 
+abstracts were screened ( Table 1 ). Next, a full-text review was per- 
+formed to determine whether the studies met all inclusion crite- 
+ria ( Table 1 ). We included both randomised controlled trials (RCTs) 
+and observational studies. We excluded case reports, narrative re- 
+views, discussion papers, conference papers, letters to the editor 
+and editorials. 
+2.3. Data extraction 
+Data were extracted from included studies with a standard- 
+ised form to obtain information on participants (number and type 
+of persons, setting, country), study design, intervention elements 
+(as described by the authors and as categorised by the authors), 
+methods of data collection, follow-up duration and outcome mea- 
+sures. We also extracted data on the effectiveness of interventions 
+on outcomes reported, stakeholder involvement (yes or no), de- 
+terminants analysis performed for developing interventions (yes 
+Table 1 
+Summary of inclusion criteria. 
+Criteria 
+Include if 
+Stage 1: title/abstract review 
+Year of publication 
+Study was published in 1990 and later 
+Study site 
+Study was conducted in a LMIC 
+Intervention 
+Study evaluates an intervention to improve 
+dispensing practices of CHPs, OTCMSs and community 
+pharmacies 
+Stage 2: full-text review 
+Primary study 
+Study assesses primary outcome of interest at CHPs, 
+OTCMSs and community pharmacies in the LMIC 
+Evaluates an 
+intervention 
+Study evaluates effectiveness of interventions to 
+improve dispensing of medicines including antibiotics 
+Description of 
+intervention 
+Intervention is clearly described 
+Effectiveness 
+Study reports original data on the effectiveness of 
+intervention 
+or no) and reported determinants of success or failure of inter- 
+ventions. We extracted effectiveness data as reported in the pa- 
+pers (i.e., percentages, P -values). To categorise intervention ele- 
+ments, the Cochrane Effective Practice and Organization of Care 
+(EPOC) Taxonomy was used [23] . Two authors (SAA and MH) inde- 
+pendently extracted data from one paper and outcomes were dis- 
+cussed. Data from another paper were extracted by SAA and MAA 
+for comparison. Data from the remaining papers were extracted 
+by SAA and were fully checked for accuracy by MAA. Discrepan- 
+cies identiﬁed were resolved through discussion. For this system- 
+atic review we followed the PRISMA criteria (Supplementary Ap- 
+pendix S4), and the study protocol was registered at PROSPERO 
+(CRD42018116526). 
+2.4. Methodological quality 
+The quality of randomised controlled studies was assessed us- 
+ing the Cochrane Risk of Bias tool for randomised controlled tri- 
+als. Bias was assessed as a judgement (high, low or unclear) based 
+on seven indicators. The quality of non-randomised studies was 
+assessed with the Newcastle-Ottawa Quality Assessment Scale for 
+non-randomised controlled trials. We evaluated each study based 
+on ﬁve indicators. We assessed whether the studies fulﬁlled the 
+descriptive characteristics for each indicator. Studies were consid- 
+ered to be of higher quality if they explicitly described the charac- 
+teristics for each element. For each indicator, studies were assigned 
+a yes (met criteria), partial (met half of criteria) or no (failed to 
+meet criteria) ( Table 2 ). The risk of bias of studies was assessed 
+by SAA and veriﬁed by MAA. 
+2.5. Data synthesis and analysis 
+The effectiveness of studies was assessed based on quantita- 
+tive results reported for all study outcomes. Most studies reported 
+unique outcome parameters. To facilitate comparisons, we devel- 
+oped a study ‘summary of effectiveness score’ (i.e., number of sig- 
+niﬁcant outcomes/total number of outcomes measured × 100) to 
+determine the overall effectiveness of interventions. These scores 
+were categorised: intervention showed statistically signiﬁcant ef- 
+fects on all study outcomes, ≥50% of study outcomes and < 50% of 
+study outcomes. We also summarised the interventions performed 
+in the included studies using EPOC categorisation [23] . Information 
+on stakeholder involvement in intervention development, determi- 
+nants analysis performed for developing intervention and reported 
+determinants of success or failure of intervention were analysed 
+thematically. 
+260
+
+
+=== PAGE 3 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 2 
+Characteristics of 13 studies, 15 papers. 
+Author, 
+publication 
+year [reference] 
+Topic 
+Participants, 
+setting, country 
+Units of analysis 
+Study design 
+(cRCT, ITS etc) 
+Description of 
+intervention 
+(I)/Comparison (C) 
+Methods of data collection 
+and follow-up duration 
+Predeﬁned endpoints 
+(see Appendix S1 (all 
+endpoints) and Table 3 
+(antibiotic endpoints 
+only) for detailed 
+information) 
+Study quality 
+1. 
+Adu-Sarkodie 
+et al., 2000 
+[19] 
+Syndromic 
+management of 
+urethral 
+discharge in 
+pharmacies 
+-100 Drug sellers 
+at 
+pharmacy/over- 
+the-counter 
+medicine shops 
+(50 intervention, 
+50 control) 
+-Private -Ghana 
+Pharmacy/over- 
+the-counter 
+medicine shops 
+Cluster RCT 
+with after 
+intervention 
+measurement 
+I: ∗Training C: No 
+training (routine 
+care) 
+∗Trained simulated clients 
+visits pharmacy/drug 
+shops 
+∗Structured questionnaire 
+completed for each 
+pharmacy staff encounter 
+∗Follow-up duration: 
+intervention was assessed 
+for 1 months after 8 
+months of implementation 
+-Total of all outcomes: 
+14 -Antibiotic related 
+outcomes: 6 
+Random sequence 
+generation, low risk; 
+Allocation concealment, 
+unclear; 
+Blinding of participants 
+and personnel, unclear; 
+Blinding of outcome 
+assessment, low risk; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, unclear 
+2. Awor et al., 
+2014 [28] 
+Integrated 
+management of 
+malaria, 
+pneumonia 
+and diarrhoea 
+-3759 household 
+interviews with 
+caretakers of 
+children less 
+than 5 years 
+(1604 
+before/2155 
+after) - 943 exit 
+interviews with 
+caretakers of 
+children less 
+than 5 
+years (163 
+before/780 
+after)-Private- 
+Uganda 
+Caretakers of 
+children less 
+than 5 years 
+Quasi- 
+experimental 
+study (one 
+intervention 
+and one non- 
+intervention) 
+with before- 
+after 
+measurement 
+I: ∗Provision of dose 
+speciﬁc 
+pre-packaged and 
+subsidized drugs 
+and diagnostics to 
+registered drug 
+shops drugs ∗
+Training of drug 
+shop attendants ∗A 
+community 
+awareness 
+campaign. C: Usual 
+care/current 
+practices 
+∗Structured 
+questionnaire/exit 
+interviews with clients at 
+drug shops -Household 
+interviews with care 
+takers/mothers ∗Direct 
+observation at drug shops 
+∗Follow-up duration: 
+interventions were 
+assessed for 2 months 
+after 8 months of 
+implementation 
+-Total of all outcomes: 
+18 -Antibiotic related 
+outcomes: 7 
+Population of interest, yes; 
+Outcomes assessed and 
+reported, yes; 
+Measurement same for all 
+subjects, yes; 
+Confounding controlled, 
+yes; 
+Intervention, yes 
+3. Chalker, 
+2001 [20] 
+Antibiotic 
+prescribing 
+- Community 
+health workers 
+in 217 
+community 
+health 
+stations-Public 
+-Vietnam 
+Record of 
+patients 
+Longitudinal 
+time series 
+I : ∗Conditional 
+equipment donation 
+∗Standard treatment 
+guideline ∗Regular 
+supervision 
+∗Workshops 
+C : Routine care at 
+baseline 
+∗Records from outpatients 
+book at community health 
+stations ∗Follow-up 
+duration: interventions 
+were assessed through 
+monthly supervision for 6 
+to 24 months 
+-Total of all outcomes: 
+2-Antibiotic related 
+outcomes: 2 
+Population of interest, no; 
+Outcomes assessed and 
+reported, yes; 
+Measurement same for all 
+subjects, partial; 
+Confounding controlled, 
+partial; Intervention, yes 
+( continued on next page ) 
+261 
+
+
+=== PAGE 4 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 2 ( continued ) 
+Author, 
+publication 
+year [reference] 
+Topic 
+Participants, 
+setting, country 
+Units of analysis 
+Study design 
+(cRCT, ITS etc) 
+Description of 
+intervention 
+(I)/Comparison (C) 
+Methods of data collection 
+and follow-up duration 
+Predeﬁned endpoints 
+(see Appendix S1 (all 
+endpoints) and Table 3 
+(antibiotic endpoints 
+only) for detailed 
+information) 
+Study quality 
+4. Chalker 
+et al., 2002 [9] , 
+Chalker et al., 
+2005 [10] & 
+Chuc et al., 
+2002 [24] 
+Dispensing 
+practices at 
+private 
+pharmacies 
+regarding 
+antibiotics and 
+steroids 
+Vietnam Drug 
+sellers in 68 
+pharmacies (34 
+intervention and 
+34 control) 
+-Private 
+Pharmacies 
+Hanoi Cluster 
+RCT with 
+before and 
+after 
+measurement 
+Hanoi I: ∗Regulation 
+enforcement ∗
+Educational visits: ∗
+Peer inﬂuence: peer 
+review C: Routine 
+care 
+Hanoi simulated clients 
+methods- trained clients 
+visited pharmacies to 
+assess pharmacy worker 
+performance 
+Hanoi and Bangkok 
+Total of all 
+outcomes: 29 
+-Antibiotic related 
+outcomes: 8 
+Random sequence 
+generation, low risk; 
+Allocation concealment, 
+low risk; Blinding of 
+participants and 
+personnel, low risk; 
+Blinding of outcome 
+assessment, low risk; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, low risk 
+Thailand ∗Drug 
+sellers in 78 
+pharmacies (39 
+intervention and 
+39 control) 
+-private 
+Pharmacies 
+Bangkok 
+Cluster RCT 
+with before 
+and after 
+measurement 
+Bangkok I: ∗
+Regulation 
+enforcement ∗
+Educational visits 
+and seminars ∗Peer 
+inﬂuence; peer 
+review with peer 
+facilitators C: Usual 
+services 
+Bangkok Simulated clients 
+methods- trained clients 
+visited pharmacies to 
+assess pharmacy worker 
+performance ∗Follow-up 
+duration: each 
+interventions were 
+assessed for 3 months 
+after 3 months of 
+implementation 
+5. Chowdhury 
+et al., 2018 
+[29] 
+Antibiotic 
+dispensing 
+practices 
+∗Drug sellers in 
+100 pharmacies 
+∗Private 
+-Bangladesh 
+Pharmacies 
+Before and 
+after study 
+I: ∗Development of 
+treatment guidelines 
+for drug sellers. ∗
+Educational 
+intervention 
+(training manuals, 
+posters, leaﬂet on 
+ARI treatment 
+algorithm) 
+∗Structured questionnaire 
+was administered to drug 
+sellers ∗Simulated clients- 
+trained simulated clients 
+visited pharmacies to 
+assess pharmacy worker 
+performance 
+∗Follow-up duration: 
+interventions were 
+assessed for 1 year after 6 
+months of implementation 
+-Total of all outcomes: 
+29-Antibiotic related 
+outcomes: 7 
+Population of interest, yes; 
+Outcomes assessed and 
+reported, yes; 
+Measurement same for all 
+subjects, yes; Confounding 
+controlled, yes; 
+Intervention, yes 
+6. Garcia et al., 
+2003 [25] 
+Recognition, 
+management, 
+and prevention 
+of STDs 
+-Pharmacy 
+workers in 24 
+districts 
+(Intervention:220 
+and Control 
+:220) -Private - 
+Peru 
+Pharmacy 
+workers 
+Cluster RCT 
+with repeated 
+after 
+measurements 
+(at one, 
+three, and six 
+months) 
+I: ∗
+Seminars/Training ∗
+Provision of 
+merchandise and 
+educational 
+materials ∗Referral 
+Networks ∗Monthly 
+follow-up visits C: ∗
+One day seminar on 
+treatment of 
+diarrhoea 
+∗Simulated clients 
+methods-trained simulated 
+clients visited pharmacies 
+to assess pharmacy worker 
+performance ∗Follow-up 
+duration: interventions 
+were assessed for 6 
+months after 2 months of 
+implementation 
+-Total of all outcomes: 
+36-Antibiotic related 
+outcomes:9 
+Random sequence 
+generation, low risk; 
+Allocation concealment, 
+low risk; Blinding of 
+participants and 
+personnel, low risk; 
+Blinding of outcome 
+assessment, low risk; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, low risk 
+( continued on next page ) 
+262 
+
+
+=== PAGE 5 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 2 ( continued ) 
+Author, 
+publication 
+year [reference] 
+Topic 
+Participants, 
+setting, country 
+Units of analysis 
+Study design 
+(cRCT, ITS etc) 
+Description of 
+intervention 
+(I)/Comparison (C) 
+Methods of data collection 
+and follow-up duration 
+Predeﬁned endpoints 
+(see Appendix S1 (all 
+endpoints) and Table 3 
+(antibiotic endpoints 
+only) for detailed 
+information) 
+Study quality 
+7. Kaﬂe et al., 
+1998 [26] 
+Safe 
+Dispensing, 
+Correct Advice, 
+and 
+Appropriate 
+Referral for 
+Diarrhoea, ARI, 
+and Pregnancy 
+-342 drug 
+retailer 
+-Private-Nepal 
+Drug retailers 
+Cluster RCT 
+with before 
+and after 
+measurement 
+I-1: ∗Small group 
+training 
+∗Reinforcement 
+materials I-2: 
+∗Audit and feedback 
+I-3: ∗Mailed printed 
+educational 
+materials C: Routine 
+care 
+∗Simulated client method- 
+trained simulated clients 
+visited drug retailers to 
+assess their performance 
+∗Structured questionnaire 
+for exit interviews with 
+patients 
+∗Follow-up duration: 
+interventions were 
+assessed for two months 
+after ﬁve months of 
+implementation 
+-Total of all outcomes: 
+68 -Antibiotic related 
+outcomes:5 
+Random sequence 
+generation, low risk; 
+Allocation concealment, 
+low risk; Blinding of 
+participants and 
+personnel, low risk; 
+Blinding of outcome 
+assessment, low risk; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, unclear 
+8. Kaﬂe et al., 
+2001 [33] 
+Prescribing 
+practices for 
+acute 
+diarrhoea, 
+Pneumonia, 
+acute 
+respiratory 
+infection; 
+scabies, 
+pyrexia of 
+unknown 
+origin and 
+antibiotics 
+prescribing 
+80 prescribers in 
+health post 
+-public -Nepal 
+Health post 
+Cluster RCT 
+with before 
+and after 
+measurement 
+I: ∗Action-oriented, 
+small group, 
+face-to-face training 
+∗Reinforcement 
+educational 
+materials ∗Peer 
+group discussion 
+using 
+self-assessment 
+ﬁndings C: Routine 
+care 
+∗Carbon copies of 
+prescription pads collected 
+monthly from health post 
+∗Follow-up duration: 
+interventions were 
+assessed for 2 months 
+after 6 months of 
+implementation 
+-Total of all outcomes: 
+32 -Antibiotic - related 
+outcomes:17 
+Random sequence 
+generation, low risk; 
+Allocation concealment, 
+low risk; 
+Blinding of participants 
+and personnel, low risk; 
+Blinding of outcome 
+assessment, low risk; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, unclear 
+9 . Kitutu et al., 
+2017 [30] 
+Integrated 
+community 
+case 
+Management 
+of paediatric 
+febrile illness 
+(pneumonia, 
+malaria, 
+diarrhoea) by 
+drug sellers 
+∗84 drug shops 
+(61 intervention, 
+23 control) 
+∗553 care-seeker 
+exit interviews 
+(285 intervention 
+and 268 
+control)-Private 
+-Uganda 
+Care-seekers 
+encounters 
+Before and 
+after study 
+I: (1) selection, 
+training and work 
+activities of drug 
+sellers, (2) provision 
+of information, 
+education, 
+information and 
+communication, (3) 
+supply mechanism 
+by study team in 
+partnership with 
+pharmaceutical 
+wholesalers for 
+diagnostics (malaria 
+RDT and respiratory 
+rate counters) and 
+medicines (ACT, 
+amoxicillin 
+dispersible tablets 
+(DT) and zinc 
+sulphate/ORS), (4) 
+monthly support 
+supervision done by 
+study ﬁeld 
+supervisor 
+∗Structured questionnaire 
+for exit interviews with 
+care seekers Follow-up 
+duration: interventions 
+were assessed for 2 
+months after 14 months of 
+implementation 
+-Total of all outcomes: 
+16 -Antibiotic related 
+outcomes:5 
+Population of interest, yes; 
+Outcomes assessed and 
+reported, yes; 
+Measurement same for all 
+subjects, yes; Confounding 
+controlled, yes; 
+Intervention, yes 
+( continued on next page ) 
+263 
+
+
+=== PAGE 6 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 2 ( continued ) 
+Author, 
+publication 
+year [reference] 
+Topic 
+Participants, 
+setting, country 
+Units of analysis 
+Study design 
+(cRCT, ITS etc) 
+Description of 
+intervention 
+(I)/Comparison (C) 
+Methods of data collection 
+and follow-up duration 
+Predeﬁned endpoints 
+(see Appendix S1 (all 
+endpoints) and Table 3 
+(antibiotic endpoints 
+only) for detailed 
+information) 
+Study quality 
+10 . Mandal, 
+2013 [31] 
+Rational use of 
+Medicines in 
+the Community 
+-10 Community 
+pharmacies-30 
+prescriptions 
+each from the 
+same 10 
+pharmacies 
+before and after 
+intervention- 
+stakeholders in 
+healthcare 
+system 
+-Private-India 
+Prescriptions 
+records in 
+community 
+pharmacies 
+Before and 
+after study 
+I: ∗
+Workshop/seminars 
+Collection of prescriptions 
+forms from community 
+pharmacies 
+Follow-up duration: not 
+reported 
+-Total of all outcomes: 
+6 -Antibiotic related 
+outcomes:1 
+Population of interest, no; 
+Outcomes assessed and 
+reported, no; 
+Measurement same for all 
+subjects, yes; Confounding 
+controlled, no; 
+Intervention, yes 
+11. Nsimba, 
+2007 [32] 
+Management 
+of malaria and 
+other 
+childhood 
+illnesses 
+-40 drugstores 
+(20 intervention, 
+20 control) 
+-Private-Tanzania 
+Drug sellers 
+Cluster RCT 
+with before 
+and after 
+measurement 
+I: ∗Educational 
+interventions 
+(posters, individual 
+information and a 
+one-to-one training 
+sessions) C: ∗Only 
+posters 
+∗Simulated clients 
+methods-trained simulated 
+clients completed records 
+forms after each encounter 
+with drug sellers 
+∗Structured questionnaire 
+for exit interviews with 
+care seekers Follow-up 
+duration: interventions 
+were assessed for 1 month 
+after 6 months of 
+implementation 
+-Total of all outcomes: 
+15-Antibiotic related 
+outcomes:3 
+Random sequence 
+generation, low risk; 
+Allocation concealment, 
+low risk; Blinding of 
+participants and 
+personnel, unclear; 
+Blinding of outcome 
+assessment, unclear; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, low risk 
+( continued on next page ) 
+264 
+
+
+=== PAGE 7 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 2 ( continued ) 
+Author, 
+publication 
+year [reference] 
+Topic 
+Participants, 
+setting, country 
+Units of analysis 
+Study design 
+(cRCT, ITS etc) 
+Description of 
+intervention 
+(I)/Comparison (C) 
+Methods of data collection 
+and follow-up duration 
+Predeﬁned endpoints 
+(see Appendix S1 (all 
+endpoints) and Table 3 
+(antibiotic endpoints 
+only) for detailed 
+information) 
+Study quality 
+12. 
+Ross-Degnan 
+et al., 1996 
+[27] 
+Diarrhea 
+treatment in 
+pharmacies 
+Kenya 
+∗90 pharmacist 
+and 162 counter 
+attendants in 
+107 private 
+Pharmacies. 
+Group 1- 58 
+received training. 
+In phase I, Group 
+2- 24 acted as 
+control in phase 
+I but were 
+trained in phase 
+II. Group III-25 
+received no 
+training and 
+acted as control 
+throughout ∗
+128/109 
+pharmacy 
+attendants 
+before and after 
+training. -Private 
+Pharmacies, 
+pharmacist and 
+counter 
+attendants 
+Kenya 
+Controlled 
+before after 
+design 
+Kenya I : ∗
+Educational material 
+∗Interactive training 
+sessions C: Routine 
+care 
+Kenya ∗Surveys/interviews 
+with pharmacy owners, 
+pharmacist and counter 
+attendants ∗Simulated 
+clients methods-Trained 
+simulated clients posed as 
+mothers 
+∗FGD with pharmacist and 
+counter attendants 
+Follow-up duration: 
+interventions were 
+assessed for 1 month after 
+1 month of 
+implementation 
+Kenya and Indonesia 
+-Total of all outcomes: 
+16 -Antibiotic related 
+outcomes:2 
+Random sequence 
+generation, high risk; 
+Allocation concealment, 
+low risk; Blinding of 
+participants and 
+personnel, low risk; 
+Blinding of outcome 
+assessment, low risk; 
+Incomplete data outcome, 
+low risk; Selective 
+reporting, unclear; Other 
+bias, unclear 
+Indonesia ∗87 
+private 
+pharmacies 
+(intervention = 43, 
+control = 44)- 
+Private 
+Pharmacies, 
+pharmacist and 
+counter 
+attendants 
+Indon esia 
+Controlled 
+before after 
+design 
+Indonesia I : ∗
+Printed educational 
+material C: Routine 
+care 
+Indonesia 
+∗Surveys/interviews with 
+pharmacy owners, 
+assistant pharmacist and 
+counter attendants ∗
+Simulated clients 
+methods-trained clients 
+posed as mothers ∗FGD 
+with pharmacist and 
+counter attendants 
+follow-up duration: 
+interventions were 
+assessed for 1 month after 
+1 month of 
+implementation 
+13. Valimba 
+et al., 2014 [3] 
+Antimicrobial 
+use 
+-124 accredited 
+dispensers, 84 
+healthcare 
+providers and 8 
+health 
+management 
+team members - 
+public and 
+private -Tanzania 
+Drug dispensers 
+in accredited 
+drug dispensing 
+outlet and 
+customers 
+Before and 
+after study 
+I: ∗Job aids and 
+educational 
+materials ∗
+Sensitization 
+seminars ∗Training 
+and on-site 
+supervisory 
+monitoring visits 
+-Exit interviews with drug 
+shop clients 
+-Direct observation of 
+clients at drug shops 
+-Review of dispensing 
+records at drug shops 
+Follow-up duration: 
+interventions were 
+assessed for 1 month after 
+11 months of 
+implementation 
+-Total of all outcomes: 
+21 -Antibiotic related 
+outcomes:8 
+Population of interest, yes; 
+Outcomes assessed and 
+reported, yes; 
+Measurement same for all 
+subjects, partial; 
+Confounding controlled, 
+no; Intervention, yes 
+NOTE: Chalker et al., 2002 and Chuc et al., 2002 are two papers from the same study but reported on different outcomes. 
+265 
+
+
+=== PAGE 8 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Fig. 1. PRISMA ﬂow diagram. 
+3. Results 
+3.1. Search results 
+A total of 1508 papers were initially identiﬁed through the 
+database searches. In addition, 10 papers we identiﬁed through the 
+Google search. After removing duplicates, 1158 papers remained 
+for screening. Following screening of titles and abstracts, 22 po- 
+tentially relevant studies were selected for full-text screening, out 
+of which 13 studies (15 papers) met the inclusion criteria ( Fig. 1 ). 
+3.2. Characteristics of studies 
+Studies in this review ( Table 2 ) were conducted in Asia (Viet- 
+nam (n = 1), Vietnam and Thailand (n = 1), Nepal ( = 2), Bangladesh 
+(n = 1), India (n = 1)), Africa (Ghana (n = 1), Tanzania ( = 2), Uganda 
+(n = 2)) and South America (Peru (n = 1)). One study was conducted 
+in both Africa (Kenya) and Asia (Indonesia). Out of the 13 interven- 
+tion studies, 10 were conducted in private OTCMS shops or com- 
+munity pharmacies [ 9 , 10 , 19 , 24–32 ], two were conducted in pub- 
+lic CHPs among community health workers [ 20 , 33 ], and one was 
+conducted in both private OTCMS shops and public/private CHP 
+settings [3] ( Table 2 ). Seven out of the 13 studies [ 9 , 10 , 19 , 24–
+27 , 32 , 33 ] were RCTs and generally rated as ‘good quality’, which 
+shows that the trials/studies largely reported low risk of bias for 
+relevant study indicators. Six were observational studies [ 3 , 20 , 28–
+31 ] including three pre and post studies, two quasi-experimental 
+studies and one longitudinal time series. Three of the six observa- 
+tional studies were rated as poor-quality studies with high risk of 
+bias [ 3 , 20 , 31 ]. 
+3.3. Outcome measures and effectiveness of studies 
+3.3.1. Appropriate dispensing of antibiotics 
+All the 13 studies included in this review focused on outcomes 
+that are related to appropriate dispensing of medicine including 
+antibiotics. The number of predeﬁned endpoints per study varied 
+between 2 [20] and 68 [26] outcomes, with antibiotic-related out- 
+comes varying between 1 [31] and 17 [33] . Table 3 provides re- 
+sults as reported in the included studies and the summary of ef- 
+fectiveness scores for antibiotics dispensing related outcomes only. 
+All studies reported positive effects following intervention. Four 
+(30.8%) out of the 13 studies reported statistically signiﬁcant effect 
+of the intervention on all outcomes measured [ 9 , 10 , 20 , 24 , 27 , 28 ]. 
+266 
+
+
+=== PAGE 9 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 3 
+Summary of results on antibiotic related outcomes reported in studies. 
+Author, publication year 
+[reference] and topic 
+Outcome measure related to antibiotic use 
+Intervention group (Before 
+and after where applicable) 
+Control group (Before and 
+after where applicable) 
+Statistic 
+Overall effectiveness 
+1. Adu-Sarkodie et al., 
+2000 [19] 
+Syndromic management of 
+urethral discharge in 
+Ghanaian pharmacies 
+∗Appropriateness of treatment offered for 
+urethral discharge 
+1 out of 6 predeﬁned antibiotic 
+use endpoints (16.7%) improved 
+after intervention 
+Interventions were effective on 
+< 50 of outcomes 
+1. Total correct drug dose 
+27% 
+13% 
+NS 
+2. Total acceptable drug provision 
+39% 
+18% 
+P < 0.05 
+∗Appropriateness of treatment offered for 
+gonorrhoea 
+3. Total correct drug dose 
+41% 
+31% 
+NS 
+4. Total acceptable drug provision 
+76% 
+64% 
+NS 
+∗Appropriateness of treatment offered for 
+chlamydia 
+5. Total correct drug dose 
+32% 
+23% 
+NS 
+6. Total acceptable drug provision 
+41% 
+31% 
+NS 
+2. Awor et al., 2014 [28] 
+Increased Access to Care 
+and Appropriateness of 
+Treatment at Private 
+Sector Drug Shops with 
+Integrated Management of 
+Malaria, Pneumonia and 
+Diarrhoea 
+∗Management of children with cough and fast 
+breathing (pneumonia) 
+7 out of 7 predeﬁned antibiotic 
+use endpoints (100 %) improved 
+after intervention 
+Interventions were effective on all 
+outcomes 
+Note: PR is the prevalence ratio 
+1. Amoxicillin dispensed 
+0%, 75.3% 
+0%, 26.7% 
+P < 0.0001 
+2. Respiratory timer used and amoxicillin 
+dispensed 
+0%, 49.3% 
+0%, 0% 
+P < 0.000 
+∗Treatment using antibiotics, ACTs and 
+ORS/zinc 
+3. Children with pneumonia treated with 
+amoxicillin (5–7 days) 
+0%, 75.3% 
+0%, 26.7% 
+PR-2.8 
+(2.0–3.9) 
+4. Children with pneumonia treated with 
+cotrimoxazole 
+79.2%, 2.7% 
+37.5%, 24.4% 
+PR- 0.07 
+(0.01–0.39) 
+5. Overall antibiotic use 
+45.0%, 60.0% 
+65.1%, 73.5% 
+PR- 
+0.82(0.69–0.97) 
+6. Cotrimoxazole treatment 
+43.5%, 21.0% 
+65.2%, 55.8% 
+PR- 0.45 
+(0.27–0.74) 
+7. Amoxicillin treatment 
+31.5%, 25.6% 
+30.8%, 28.7% 
+PR- 0.82 
+(0.58–1.2) 
+3. Chalker 2001 [20] 
+Improving antibiotic 
+prescribing 
+1. Patients receiving an antibiotic as part of 
+their prescription 
+69% 
+43% 
+P < 0.05 
+2 out of 2 predeﬁned antibiotic 
+use endpoints (100%) improved 
+after intervention 
+interventions were effective on all 
+outcomes 
+2. Patients who received in adequate dose 
+30% 
+98% 
+P < 0.01 
+( continued on next page ) 
+267 
+
+
+=== PAGE 10 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 3 ( continued ) 
+Author, publication year 
+[reference] and topic 
+Outcome measure related to antibiotic use 
+Intervention group (Before 
+and after where applicable) 
+Control group (Before and 
+after where applicable) 
+Statistic 
+Overall effectiveness 
+4. Chalker et al., 2002 [9] , 
+Chalker et al., 2005 [10] 
+and Chuc et al., 2002 [24] 
+Multi component 
+intervention to improve 
+private pharmacy 
+dispensing practices 
+Hanoi (all interventions) 
+8 out of 8 predeﬁned antibiotic 
+use endpoints (100 %) improved 
+after intervention 
+Interventions were effective on all 
+outcomes 
+Sexually transmitted disease: Urethral 
+discharge 
+∗Treatment 
+1. Antibiotics 
+16%, 9% 
+11%, 36% 
+P = 0.02 
+2. Traditional medicine 
+5%, 57% 
+14%, 23% 
+P = 0.03 
+∗Sell cefalexin with no prescription 
+3. Sell antibiotics 
+57%, 20% 
+45%, 61% 
+P = 0.02 
+∗ARI case management 
+4. Antibiotics dispensed 
+45%, 30% 
+39%, 42% 
+P = 0.023 
+∗Cefelexin request 
+5. Cefalexin dispensed 
+95%, 56% 
+94%, 89% 
+P = 0.002 
+6. Prescription request 
+0%, 21% 
+0%, 2% 
+P = 0.009 
+7. Received requested antibiotics 
+Baseline- 99% 
+Baseline- 97% 
+P = 0.1625 
+Post regulatory 98% 
+Post regulatory-98% 
+P = 0.7389 
+Post educational 69% 
+Post educational 90% 
+P = 0.0471 
+Post peer review 71% 
+Post peer review 95% 
+P = 0.0125 
+8. Ask no questions gave no advice for 
+low-dose antibiotic request 
+Baseline: 70% 
+Baseline: 73% 
+P = 0.6027 
+Post regulatory 77% 
+Post regulatory 77% 
+P = 0.9597 
+Post educational 45% 
+Post educational 71% 
+P = 0.0025 
+Post peer review 51% 
+Post peer review 81% 
+P = 0.0028 
+Bangkok (all interventions) 
+∗Received requested antibiotics 
+Baseline- 76% 
+Baseline- 75% 
+P = 0.8925 
+Post regulatory- 58% 
+Post regulatory-67% 
+P = 0.3770 
+Post educational-92% 
+Post educational-95% 
+P = 0.4795 
+Post peer review- 88% 
+Post peer review -92% 
+P = 0.5525 
+∗Ask no questions gave no advice for 
+low-dose antibiotic request 
+Baseline- 82% 
+Baseline- 86% 
+P = 0.4165 
+Post regulatory- 89% 
+Post regulatory-91% 
+P = 0.5526 
+Post educational- 87% 
+Post educational- 87% 
+P = 0.9447 
+Post peer review - 72% 
+Post peer review 81% 
+P = 0.1927 
+5. Chowdhury, 2018 [29] 
+Effectiveness of an 
+educational intervention 
+to improve antibiotic 
+dispensing practices 
+∗Antibiotic dispensing and referral for acute 
+respiratory infections (ARI) 
+5 out of 7 predeﬁned antibiotic 
+use endpoints (71.4%) improved 
+after intervention 
+interventions were effective on 
+≥50% of outcomes 
+1. Children with uncomplicated ARI 
+30%, 21% 
+- 
+P = 0.04 
+2. Children with complicated ARI 
+15%, 17% 
+- 
+P = 0.06 
+3. Adults with uncomplicated ARI 
+48%, 40% 
+- 
+P = 0.1 
+4. Adults with complicated ARI 
+44%, 78% 
+- 
+P = 0.01 
+∗Drug sellers’ advice on ARI 
+5. Recommended advice in ARI guidelines 
+5%, 29% 
+- 
+P = 0.01 
+6. Take antibiotics according to physician’s 
+prescription 
+11%, 0% 
+- 
+P = 0.01 
+7. Take antibiotics if not cured after initial 
+treatment 
+39%, 7% 
+- 
+P = 0.001 
+( continued on next page ) 
+268 
+
+
+=== PAGE 11 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 3 ( continued ) 
+Author, publication year 
+[reference] and topic 
+Outcome measure related to antibiotic use 
+Intervention group (Before 
+and after where applicable) 
+Control group (Before and 
+after where applicable) 
+Statistic 
+Overall effectiveness 
+6. Garcia et al., 2003 [25] 
+Training pharmacy 
+workers in recognition, 
+management, and 
+prevention of STDs 
+Pilot evaluation of pharmacy workers on 
+adherence to guidelines 
+5 out of 9 predeﬁned antibiotic 
+use endpoints (55.6%) improved 
+after intervention 
+interventions were effective on 
+≥50% of outcomes 
+∗Urethral discharge 
+1. Adequate management of the syndrome 
+82.5%, 25% 
+- 
+P < 0.001 
+∗Genital ulcer 
+2. Recognition of STD symptoms 
+95%, 53.8% 
+- 
+P < 0.001 
+3. Adequate management of the syndrome 
+67.5%, 20.8% 
+- 
+P < 0.001 
+∗Vaginal discharge 
+4. Adequate management of the syndrome 
+40%, 20% 
+- 
+P = 0.001 
+∗Pelvic inﬂammatory disease 
+5 Adequate management of the syndrome 
+50%, 9.7% 
+- 
+P < 0.001 
+Main evaluation of pharmacy workers 
+∗Urethral discharge 
+6. Adequate management of the syndrome 
+80%, 30% 
+- 
+NR 
+∗Genital ulcer 
+7. Adequate management of the syndrome 
+80%, 25% 
+- 
+NR 
+∗Vaginal discharge 
+8. Adequate management of the syndrome 
+70%, 24% 
+- 
+NR 
+∗Pelvic inﬂammatory disease 
+9. Adequate management of the syndrome 
+70%, 20% 
+- 
+NR 
+7. Kaﬂe et al., 1998 [26] 
+Action-Oriented Training 
+and/or Mailed Print 
+Material on Retailer 
+Practices 
+∗Dispensing practices for diarrhoea 
+1 out of 5 predeﬁned antibiotic 
+use endpoints (20.0%) improved 
+after intervention 
+interventions were effective on 
+< 50% of outcomes 
+1. Antimicrobial product dispensed 
+55.8%, 45% 
+59.3%, 30% 
+NS 
+2. Single antimicrobial dispensed 
+45.3%, 54.0% 
+45.3%, 30% 
+NS 
+3. Multiple antimicrobials dispensed 
+10.5%, 3.8% 
+14%, 3.8% 
+NS 
+∗Dispensing practices for pneumonia 
+4. Antibacterials 
+18.6%, 28.8% 
+32%, 17.5% 
+P = 0.003 
+5. Co-trimoxazole 
+8.1%, 17.5% 
+7.0%, 8.8% 
+NS 
+8. Kaﬂe et al., 2001 [33] 
+Test of strategies for 
+implementing STS in 
+improving use of drugs 
+∗Prescribing practices for diarrhoea in 
+children 
+3 out of 17 predeﬁned antibiotic 
+use endpoints (17.6%) improved 
+after intervention 
+interventions were effective on 
+< 50% of outcomes 
+1. ORS + Antimicrobials 
+53.6%, 28.6% 
+61.4%, 75% 
+P = NS 
+2. Antimicrobials + other drugs 
+28.6% 3.6% 
+11.4%, 18.3% 
+P = NS 
+∗Prescribing practices for pneumonia in 
+children 
+3. Cotrimoxazole alone 
+5.3%, 10.9% 
+25.7%, 0% 
+P = 0.016 
+4. Cotrimoxazole + Paracetamol 
+31.6%, 58.9% 
+37.1%, 63.6% 
+P = 0.043 
+5. Cotrimoxazole + other drugs 
+5.3% 7.8% 
+8.6%, 9.1% 
+P = NS 
+6 Amoxycillin alone 
+0%, 0% 
+2.9%, 0% 
+P = NS 
+7. Amoxycillin + Paracetamol 
+15.8%, 6.2% 
+0%, 4.5% 
+P = NS 
+8. Amoxycillin + other drugs 
+5.3%, 3.9% 
+0%, 4.5% 
+P = NS 
+9. Antibiotics other than Amoxycillin and 
+co-trimoxazole 
+36.8%, 12.4% 
+25.7%, 18.2% 
+P = NS 
+∗Practices for no pneumonia in children 
+10. Antibiotics 
+92.9%, 37.5% 
+60%, 54.5% 
+P = NS 
+∗Prescribing practices for scabies 
+11. Benzylbenzoate alone 
+12.5%, 23.2% 
+14.8%, 5.3% 
+P = 0.007 
+12. Benzylbenzoate + antibiotic 
+34.1%, 21.1% 
+36.3%, 40.7% 
+P = NS 
+13. Antibiotics + other drugs 
+17.1%, 16.8% 
+26.8%, 26% 
+P = NS 
+∗Prescribing practices for pyrexia of unknown 
+origin 
+14. Antibiotics alone 
+5.9%, 0% 
+0%, 3.6% 
+P = NS 
+15. Antibiotics + other drugs 
+47.1%, 13.3% 
+66.7%, 77.6% 
+P = NS 
+16. Antimalarial + Antibiotics 
+0%, 0% 
+6.7%, 14.1% 
+P = NS 
+∗Average number of drugs and percentages of 
+antibiotics 
+17. Encounters receiving antibiotic 
+54%, 54% 
+56%, 67% 
+P = NS 
+( continued on next page ) 
+269 
+
+
+=== PAGE 12 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 3 ( continued ) 
+Author, publication year 
+[reference] and topic 
+Outcome measure related to antibiotic use 
+Intervention group (Before 
+and after where applicable) 
+Control group (Before and 
+after where applicable) 
+Statistic 
+Overall effectiveness 
+9. Kitutu, 2017 [30] 
+Integrated community case 
+management by drug 
+sellers 
+∗Provision of ACTs, amoxicillin and diarrhoea 
+treatment 
+3 out of 5 predeﬁned antibiotic 
+use endpoints (60.0%) improved 
+after intervention 
+interventions were effective on 
+≥50 of outcomes 
+1. Provision of DT amoxicillin for suspected 
+pneumonia symptoms 
+4.8%, 93.2% 
+3.1%, 0% 
+P < 0.001 
+∗Integrated community case management on 
+antimicrobial medicine use 
+linear trend 
+2. DT amoxycillin 
+54%, 50% 
+- 
+P = 0.001 
+3. Either ACTs, DT amoxycillin or both 
+80%, 70% 
+- 
+P < 0.001 
+Nonlinear trend 
+4. DT amoxycillin 
+56%, 33% 
+- 
+P = 0.587 
+5. Either ACTs, DT Amoxycillin or Both 
+81%, 50% 
+- 
+P = 0.769 
+10 . Mandal, 2013 [31] 
+Improving use of 
+medicines in the 
+community through 
+Interventions for Cost 
+effective treatment 
+1. Percentage of prescriptions for antibiotics 
+54.33%, 34.66% 
+- 
+P = not 
+reported 
+Authors reported that the 
+outcome improved ‘signiﬁcantly’, 
+the exact P -value was not reported 
+11. Nsimba, 2007 [32] 
+Assessing the impact of 
+educational intervention 
+∗Knowledge on medicines dispensed 
+2 out of 3 predeﬁned antibiotic 
+use endpoints (66.7%) improved 
+after intervention 
+interventions were effective on 
+≥50% of outcomes 
+1. Give cotrimoxazole for all types of 
+diarrhoea 
+20% 
+55% 
+P < 0.01 
+2. Give ampicillin syrup for simple cough 
+40% 
+55% 
+P < 0.01 
+3. Give any antibiotics for colds 
+55% 
+60% 
+P = NS 
+12. Ross-Degnan, 1996 
+[27] 
+The impact of face-to-face 
+educational outreach on 
+diarrhoea treatment in 
+pharmacies 
+Kenya and Indonesia 
+2 out of 2 predeﬁned antibiotic 
+use endpoints (100%) improved 
+after intervention 
+interventions were effective on all 
+outcomes 
+∗Impact of training on knowledge 
+1. Signs of bacterial aetiology 
+1.54, 1.72 
+- 
+P < 0.05 
+2. Antibiotics useful only to treat diarrhoea 
+0.34, 0.54 
+- 
+P < 0.01 
+13. Valimba et al., 2014 [3] 
+Engaging the private 
+sector to improve 
+antimicrobial use 
+∗Appropriate treatment of common health 
+conditions 
+7 out of 8 predeﬁned antibiotic 
+use endpoints (87.5%) improved 
+after intervention 
+interventions were effective on 
+≥50% of outcomes 
+1. Did not dispense antibiotics for non-bloody 
+diarrhoea 
+63%, 88% 
+P = 0.0002 
+2. Did not dispense antibiotics for acute 
+upper respiratory infection 
+73%, 89% 
+- 
+P = 0.0088 
+∗Listing factors contributing to antimicrobial 
+resistance 
+3. Incomplete course 
+88%, 100% 
+- 
+P < 0.05 
+4. Insuﬃcient amount of medicine 
+66%, 89% 
+- 
+P < 0.05 
+5. Poor quality of medicine 
+49%, 74% 
+- 
+P < 0.05 
+6. Wrong medicine 
+44%, 91% 
+- 
+P < 0.05 
+7. Nonadherence 
+7%, 3% 
+- 
+NR 
+8. Take someone else’s medicine 
+6%, 94% 
+- 
+P < 0.05 
+270 
+
+
+=== PAGE 13 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+In one of such studies, patients who received antibiotics in ade- 
+quate dose increased from 30% to 98% as a result of interventions 
+to improve the use and dosage of antibiotics prescribed at commu- 
+nity health stations in Vietnam [20] . Five (38.5%) studies reported 
+signiﬁcant effect of the interventions on 50% or more of the out- 
+comes measured [ 3 , 25 , 29 , 30 , 32 ]. For example, dispensing of cotri- 
+moxazole for all types of diarrhoea and ampicillin syrup for simple 
+cough reduced from 55% to 20% and 55% to 40%, respectively, fol- 
+lowing interventions to improve the management of malaria and 
+other childhood illnesses in Tanzania [32] . Also, three (23%) studies 
+reported effectiveness of interventions on less than 50% of the out- 
+comes measured [ 19 , 26 , 33 ]. In one study (7.7%), though the level of 
+signiﬁcance was not reported, prescriptions for antibiotics reduced 
+from 54.33% to 34.66% as a result of interventions to improve ra- 
+tional use of medicines in India [31] ( Table 3 ). 
+Supplementary Appendix S2 shows the dispensing of all 
+medicines including antibiotic-related outcomes. Similarly, all stud- 
+ies reported positive effects following intervention with slightly 
+different summary of effectiveness scores. Out of the 13 studies, 
+one (7.7%) reported statistically signiﬁcant effect of the interven- 
+tions on all outcomes measured [20] . Seven studies (50%) reported 
+signiﬁcant effect of the interventions on 50% or more than half of 
+the outcomes measured [ 3 , 9 , 10 , 24 , 25 , 27 , 28 , 30 , 32 ], and four (28.6%) 
+reported effectiveness of interventions on less than half of the out- 
+comes measured [ 19 , 26 , 29 , 33 ]. One study did not report the level 
+of signiﬁcance for the effect of intervention on outcomes measured 
+[31] . 
+3.4. Single and multiple interventions to improve antibiotic 
+dispensing practices 
+Table 4 provides an overview of the 14 different interventions 
+performed in the 13 included studies according to the EPOC tax- 
+onomy [34] ; only two studies tested a similar, single intervention 
+[ 19 , 31 ]. Interventions frequently applied were educational meet- 
+ings (9/13), distribution of educational materials (7/13), educa- 
+tional outreach meetings (7/13), reminders (6/14), procurement 
+and distribution of supply (6/13), clinical practice guideline (4/13) 
+and local consensus processes (4/13). There does not seem to be 
+a relation between number of interventions implemented and de- 
+gree of effectiveness. 
+Two studies applied a similar single intervention, i.e., an educa- 
+tional meeting (EPOC). The ﬁrst study, conducted in India, sought 
+to improve rational use of drugs including antibiotics [31] . This 
+was a before-and-after comparison study among 10 community 
+pharmacies using a workshop/seminar. In this study, the reported 
+proportion of prescriptions of antibiotics reduced from 54.3% to 
+34.7%. Another study conducted in Ghana involved the training 
+of pharmacy workers and OTCMSs in the syndromic management 
+of sexually transmitted infections [19] . This was a randomised 
+controlled study with after-intervention measurements among 50- 
+intervention and 50-control pharmacy workers and OTCMSs. The 
+intervention was effective on less than 50% of outcomes measured 
+(1/6, 16.7%) ( Table 3 ). 
+Twelve out of the 13 included studies applied multiple inter- 
+ventions to improve antibiotic-dispensing practices. The number 
+of interventions that were combined and evaluated ranged from 
+two to eight per study ( Table 4 ). A study conducted in Vietnam 
+applied eight EPOC strategies: a clinical practice guideline, ed- 
+ucational meetings, local consensus process, monitoring of per- 
+formance, procurement and distribution of supplies, mass media 
+campaign-community and audit and feedback [20] . This study re- 
+ported effectiveness of interventions on all the outcomes mea- 
+sured (2/2, 100%) ( Table 4 ). Another study conducted among drug- 
+dispensing outlets in Tanzania applied seven EPOC interventions 
+including a clinical practice guideline, educational meetings, distri- 
+bution of educational materials, educational outreach visits, mon- 
+itoring of performance, procurement and distribution of supplies 
+and reminders [3] . This study also reported effectiveness of the in- 
+terventions on almost all outcomes measured (7/8, 87.5%) ( Table 4 ). 
+3.5. Stakeholder involvement in intervention development 
+Eight out of 13 studies reported on stakeholder involvement 
+in the development of study interventions, with four studies re- 
+porting antibiotic-related summary of effectiveness scores of 100% 
+[ 9 , 10 , 20 , 24 , 27 , 28 ], ﬁve studies reporting scores varying between 
+55% and 87% [ 3 , 25 , 29 , 30 , 32 ] and three studies reporting scores 
+varying between 16% and 20% [ 19 , 26 , 33 ]; one study did not report 
+a P -value for the ‘signiﬁcant’ improvement [31] ( Table 3 ). Stake- 
+holders involved in the various studies included international or- 
+ganisations, health system personnel (from the national to district 
+levels), professional associations, academics, health trainees and 
+OTCMS associations. 
+3.6. Analysis performed for developing intervention 
+Four studies indicated that an analysis was performed to in- 
+form the development of the interventions with effectiveness 
+scores varying between 18% and 100% [ 3 , 27 , 29 , 33 ] (Supplemen- 
+tary Appendix S3). The development of interventions was premised 
+mainly on stakeholder consultation/engagement and baseline stud- 
+ies/assessment. A study from Nepal used qualitative ﬁndings from 
+a formative study to develop intervention materials [33] . In Tan- 
+zania, ﬁndings from a baseline study were also used to develop 
+training programs [3] . 
+3.7. Determinants of success or failures of interventions 
+Only one study conducted in Vietnam and Thailand performed 
+a subgroup analysis to explore determinants of success or failure 
+[ 9 , 10 , 24 ] (Supplementary Appendix S3). In Thailand, participation 
+in the peer review (one of the three intervention components) was 
+voluntary. Staff from 18 of the intervention pharmacies took part, 
+and 16 did not. The analysis was done for the whole intervention 
+group and separately for the participants. Comparing the whole in- 
+tervention group to the control group, there were no differences 
+or signiﬁcant improvements in the two antibiotic-related outcomes 
+following the three components’ intervention. Looking only at the 
+intervention group that participated in the peer review and com- 
+paring them to controls, there was a signiﬁcant effect for asking 
+questions and giving advice, one of the two antibiotic-related out- 
+comes. 
+Three studies described determinants that positively inﬂuenced 
+the success of study interventions [ 9 , 10 , 20 , 24 , 27 ]. The main re- 
+ported determinant of success revolved around the involvement of 
+stakeholders including study participants in the design and imple- 
+mentation of interventions. For example, one of the studies con- 
+ducted in Kenya and Indonesia reported stakeholders’ involvement 
+contributed to the positive effect of study interventions [27] . An- 
+other study, showing overall effect in Vietnam but not in Thailand, 
+speciﬁed the baseline level of knowledge of study participants as 
+the determinant of relative effectiveness of the educational inter- 
+vention component in Vietnam [ 9 , 10 , 24 ] (Supplementary Appendix 
+S3). 
+On the other hand, two studies reported reasons that might ex- 
+plain why interventions were not effective on some of the study 
+outcomes. A study conducted in Bangladesh reported that inter- 
+ventions were effective on less than half of outcomes measured 
+possibly because drug sellers did not follow the dispensing guide- 
+lines developed by the study. Drug sellers feared that referring cus- 
+tomers could affect the business and relationship with customers 
+271 
+
+
+=== PAGE 14 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Table 4 
+EPOC interventions applied in included studies. 
+272 
+
+
+=== PAGE 15 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+as they were unable to meet customer demands for antibiotics 
+[29] . Another study—showing overall effect in Vietnam but not in 
+Thailand—attributed the failure to less focused interventions in the 
+Thailand study settings [ 9 , 10 , 24 ] (Supplementary Appendix S3). 
+3.8. Study follow-up duration 
+In 11 out of the 14 studies, interventions were followed up for 
+1–6 months after 2–14 months of implementation. The follow-up 
+period for one of the studies was not reported. In one study, the 
+interventions were followed up throughout the study period for 
+6–24 months, and data collected after a year showed that the in- 
+tervention effects were stable for 17 months after the study had 
+ended. In another study, the interventions were followed up for 
+one year after six months of implementation ( Table 2 ). 
+4. Discussion 
+This review shows that it is possible to improve the dispens- 
+ing of medicines including antibiotics at the community level in 
+LMIC. With regard to only antibiotics dispensing related outcomes, 
+9 (69.2%) of 13 studies reported signiﬁcant effects of interventions 
+on all (30.8%) or ≥50% (38.4%) of the outcomes measured. Sim- 
+ilarly, for the dispensing of all medicines including antibiotics, 8 
+(61.5%) of 13 studies reviewed reported signiﬁcant effects of the 
+intervention on all (7.7%) or ≥50% (53.8%) of the outcomes mea- 
+sured. Various interventions ranging from a single educational in- 
+tervention to multiple interventions consisting of as many as eight 
+components were effective. It is therefore important to note that 
+it is not possible to select a magic bullet that will most certainly 
+work, hence the need for tailoring to context. 
+Nine intervention studies evaluated educational meetings in- 
+cluding workshops and training [34] with the focus of improv- 
+ing dispensing practices. Educational and training interventions are 
+largely proven to be effective strategies for improving the practices 
+of professionals/non-professionals in diverse ﬁelds, with larger ef- 
+fects with higher attendance rates and interactive components, and 
+smaller effects for complex behaviours [35] . Some reviewed studies 
+concluded that educational and training interventions have the po- 
+tential of improving the dispensing practices of informal medicine 
+sellers including the sale of antibiotics without prescription, which 
+is against regulations in LMIC [ 25 , 27 , 28 , 30 ]. In LMIC where there 
+is inadequate supervision and regulatory enforcement, educational 
+interventions for OTCMSs and community pharmacies could be 
+useful when sustained beyond the research phase [21] . 
+There was no evidence to suggest that multiple interventions 
+were more effective than single interventions. Other interventions 
+that emerged from our review include distribution of educational 
+materials, educational outreach meetings, reminders, clinical prac- 
+tice guidelines, local consensus processes, procurement and distri- 
+bution of supply and monitoring of performance. When selecting 
+interventions, context should be taken into account by tailoring the 
+intervention to local barriers, available resources and other practi- 
+cal considerations [35] . These interventions are worth considering 
+for implementation in LMIC where weak regulation is a structural 
+challenge to the sale of non-prescription medicines including an- 
+tibiotics [ 21 , 36 ]. 
+There is the need for follow-up to check on sustainability of in- 
+tervention effects and to consciously roll out these interventions 
+into policy. Follow-up to evaluate the long-term effectiveness of in- 
+terventions is important because it enables implementers to know 
+whether the interventions have met their objectives and to evalu- 
+ate the determinants of success or failure of interventions [ 37 , 38 ]. 
+It is therefore important to consider the study context and inter- 
+vention types vis-à-vis the duration of follow-up to determine the 
+effectiveness of interventions. The interventions in two of the in- 
+cluded studies were followed up for a year or more. The follow- 
+up period for the remaining studies was less than a year, which is 
+generally considered inadequate [39] . An assessment of interven- 
+tion relatively soon after implementation may show positive effects 
+but dwindles after a long time as participants may return to their 
+usual practices, though sometimes it takes a lot of time to change 
+performance. 
+Our review highlights the importance of stakeholders’ engage- 
+ment in the development of interventions to improve dispens- 
+ing practices and as a determinant of effectiveness of interven- 
+tion studies. The involvement of stakeholders helps to contextu- 
+alise interventions and gives a sense of ownership to potential im- 
+plementers within the health system. The involvement of stake- 
+holders at all levels is therefore likely to ensure the sustainability 
+of interventions especially beyond the research phase [40] . The in- 
+volvement of study participants in the implementation of interven- 
+tions promotes acceptance and the willingness to participate [3] . 
+5. Limitations 
+This review is a synthesis of evidence based on reported ﬁnd- 
+ings in the included studies. A meta-analysis was not conducted 
+as results from reviewed studies could not be statistically anal- 
+ysed due to substantial differences in strategies implemented and 
+outcomes used. Included studies evaluated unique interventions 
+while using different numbers and types of outcome measures. 
+This review therefore also shows the need for using similar out- 
+come measures across studies to make results of intervention stud- 
+ies comparable and reproducible. Such standardisation will aid the 
+synthesis of evidence to inform the future design and implementa- 
+tion of interventions to improve access to essential medicines. Al- 
+hough the studies were heterogeneous (addressed different strate- 
+gies and outcomes), similarities in study settings indicate high 
+feasibility of adaptation of study methods and procedures across 
+these LMIC contexts. We also acknowledge that the ‘summary of 
+effectiveness score’ (number of signiﬁcant outcomes/total number 
+of outcomes measured ×100) has its shortcomings. 
+The relatively small number of studies included in this re- 
+view was mainly because our focus was largely on interventions 
+that improved antibiotic dispensing at the lower levels. The scope 
+of this review was therefore limited to interventions that were 
+conducted to improve antibiotic dispensing in community health 
+posts, over-the-counter medicine sellers’ shops and community 
+pharmacies. Also, due to the existence of regulations that pre- 
+vent the dispensing of antibiotics by community health posts, over- 
+the-counter medicine sellers’ shops and community pharmacies in 
+LMIC, interventions that targets antibiotic dispensing at the com- 
+munity level may be rare. 
+6. Conclusion 
+This review shows that it is possible to improve antibiotic- 
+dispensing practices at the community level in LMIC. Our review 
+contributes to the knowledge on the effectiveness of previous stud- 
+ies performed to improve dispensing practices of CHPs, OTCMSs 
+and community pharmacies in LMIC. Interventions frequently ap- 
+plied in this review showed different levels of effectiveness on the 
+outcomes measured, but all improved the dispensing behaviour of 
+dispensers. It is important to involve relevant stakeholders to fa- 
+cilitate the design and successful implementation of interventions. 
+There is the need to ensure the long-term sustainability of inter- 
+ventions beyond the research phase and provide recommendations 
+on how long follow-up should take. This review also shows the 
+need for standardisation in the conduct of intervention aimed at 
+improving medicine dispensing at the community level. 
+273 
+
+
+=== PAGE 16 ===
+S. Afari-Asiedu, M.A. Abdulai, A. Tostmann et al. 
+Journal of Global Antimicrobial Resistance 29 (2022) 259–274 
+Funding 
+The Radboudumc Revolving Research Fund, Radboud University, 
+The Netherlands and Kintampo Health Research Centre-Research, 
+Development Division of Ghana Health Service, Kintampo, Ghana 
+funded this systematic review. 
+Competing interests 
+All authors declare no competing interests. 
+Ethics approval 
+This was a systematic review and does not require ethics ap- 
+proval. All papers reviewed were publicly available. 
+Acknowledgements 
+The authors wish to sincerely express their gratitude to Al- 
+ice Tillema, a librarian at Radboudumc who supported with the 
+database searches. 
+Supplementary materials 
+Supplementary material associated with this article can be 
+found, in the online version, at doi: 10.1016/j.jgar.2022.03.009 . 
+References 
+[1] Holloway K, Van Dijk L. The world medicines situation 2011. Rational use of 
+medicines. Geneva: WHO; 2011 . 
+[2] Mendelson M, Røttingen J, Gopinathan U, Hamer DH, Wertheim H, Basnyat B, 
+et al. Maximising access to achieve appropriate human antimicrobial use in 
+low-income and middle-income countries. Lancet 2016;387:188–98. doi: 10. 
+1016/S0140- 6736(15)00547- 4 . 
+[3] Valimba R, Liana J, Joshi MP, et al. Engaging the private sector to im- 
+prove antimicrobial use in the community: experience from accredited drug 
+dispensing outlets in Tanzania. J Pharm Policy Pract 2014;7:11. doi: 10.1186/ 
+2052- 3211- 7- 11 . 
+[4] Holmes AH, Moore LSP, Sundsfjord A, et al. Understanding the mechanisms 
+and drivers of antimicrobial resistance. Lancet 2016;387:176–87. doi: 10.1016/ 
+S0140-6736(15)00473-0 . 
+[5] Peters DH, Bloom G. Health care: order health systems in developing world. 
+Nature 2013;495:47. doi: 10.1038/495047c . 
+[6] Smith F. The quality of private pharmacy services in low and middle-income 
+countries: a systematic review. Pharm World Sci 2009;31:351–61. doi: 10.1007/ 
+s11096- 009- 9294- z . 
+[7] WHO. Drug seller initiatives 2012. http://www.apps.who.int/medicinedocs/ 
+documents/s19609en/s19609en.pdf [accessed 28 March 2020]. 
+[8] Gyansa-Lutterodt, M. Antibiotic Policy in Ghana; the way forward. 2015. 
+http://studylib.net/doc/9590107/antibiotic-policy-in-ghana [accessed 20 Jan- 
+uary 2018]. 
+[9] Chalker J, Chuc NTK, Falkenberg T, Tomson G. Private pharmacies in Hanoi, 
+Vietnam: a randomized trial of a 2-year multi-component intervention on 
+knowledge and stated practice regarding ARI, STD and antibiotic/steroid re- 
+quests. Trop Med Int Health 2002;7:803–10. doi: 10.1046/j.1365-3156.2002. 
+00934.x . 
+[10] Chalker J, Ratanawijitrasin S, Chuc NT, et al. Effectiveness of a multi- 
+component intervention on dispensing practices at private pharmacies in Viet- 
+nam and Thailand: a randomized controlled trial. Soc Sci Med 2005;60:131–41. 
+doi: 10.1016/j.socscimed.2004.04.019 . 
+[11] Khan M, Grübner O, Krämer A. Frequently used healthcare services in ur- 
+ban slums of Dhaka and adjacent rural areas and their determinants. J Public 
+Health 2012;34:261–71. doi: 10.1093/pubmed/fdr108 . 
+[12] Goodman C, Brieger W, Unwin A, Mills A, Meek S, Greer G, et al. Medicine 
+sellers and malaria treatment in sub-Saharan Africa: what do they do and how 
+can their practice be improved? Am J Trop Med Hyg 2007;77(6 Suppl):203–18 
+PMCID: PMC2657822 . 
+[13] Abuya T, Fegan G, Rowa Y, et al. Impact of ministry of health interventions on 
+private medicine retailer knowledge and practices on anti-malarial treatment 
+in Kenya. Am J Trop Med Hyg 2009;80:905–13 PMID: 19478247 . 
+[14] Abuya TO, Mutemi W, Karisa B, et al. Use of over-the-counter malaria 
+medicines in children and adults in three districts in Kenya: implications 
+for private medicine retailer interventions. Malar J 2007;6:57. doi: 10.1186/ 
+1475- 2875- 6- 57 . 
+[15] Ansah EK, Narh-Bana S, Affran-Bonful H, et al. The impact of providing rapid 
+diagnostic malaria tests on fever management in the private retail sector in 
+Ghana: a cluster randomized trial. BMJ 2015:350. doi: 10.1136/bmj.h1019 . 
+[16] Cundill B, Mbakilwa H, Chandler C, et al. Prescriber and patient-oriented be- 
+havioural interventions to improve use of malaria rapid diagnostic tests in Tan- 
+zania: facility-based cluster randomised trial. BMC Med 2015;13. doi: 10.1186/ 
+s12916- 015- 0346- z . 
+[17] Ikwuobe JO, Faragher BE, Alawode G, et al. The impact of rapid malaria diag- 
+nostic tests upon anti-malarial sales in community pharmacies in Gwagwalada, 
+Nigeria. Malar J 2013;12:380. doi: 10.1186/1475- 2875- 12- 380 . 
+[18] Maloney K, Ward A, Bonnie Krenz B, et al. Expanding access to parasite-based 
+malaria diagnosis through retail drug shops in Tanzania: evidence from a ran- 
+domized trial and implications for treatment. Malar J 2017;16:6. doi: 10.1186/ 
+s12936- 016- 1658- y . 
+[19] Adu-Sarkodie Y, Steiner M, Attafuah J, Tweedy K. Syndromic management of 
+urethral discharge in Ghanaian pharmacies. Sex Transm Infect 20 0 0;76:439–
+42. doi: 10.1136/sti.76.6.439 . 
+[20] Chalker J. Improving antibiotic prescribing in Hai Phong Province, Viet Nam: 
+the ‘antibiotic-dose’ indicator. Bull World Health Org 2001;79:313–20 . 
+[21] Afari-Asiedu S, Kinsman J, Boamah-Kaali E, et al. To sell or not to sell; 
+the differences between regulatory and community demands regarding ac- 
+cess to antibiotics in rural Ghana. J Pharm Pol Pract 2018;11:30. doi: 10.1186/ 
+s40545- 018- 0158- 6 . 
+[22] Worldbank. 
+World 
+Bank 
+Country 
+and 
+Lending 
+Groups. 
+https://datahelpdesk.worldbank.org/knowledgebase/articles/ 
+906519- world- bank- country- and- lending- groups [accessed 24 June 2020]. 
+[23] EPOC. EPOC Taxonomy. 2015. https://epoc.cochrane.org/sites/epoc.cochrane. 
+org/ﬁles/public/uploads/taxonomy/epoc _ taxonomy.pdf [accessed 11 November 
+2019]. 
+[24] Chuc NT, Larsson M, Do NT, Diwan VK, Tomson GB, Falkenberg T, et al. Improv- 
+ing private pharmacy practice: a multi-intervention experiment in Hanoi, Viet- 
+nam. J Clin Epidemiol 2002;55:1148–55. doi: 10.1016/s0895- 4356(02)00458- 4 . 
+[25] Garcia P, Hughes J, Carcamo C, Holmes KK. Training pharmacy workers in 
+recognition, management, and prevention of STDs: District-randomized con- 
+trolled trial. Bull World Health Org 2003;81:806–14 . 
+[26] Kaﬂe KK. Impact of action-oriented training and/or mailed print material on 
+retailer practices: safe dispensing, correct advice and appropriate referral for 
+diarrhoea, ARI and pregnancy. ARI and Pregnancy 1998 . 
+[27] Ross-Degnan D, Soumerai SB, Goel PK, et al. The impact of face-to-face ed- 
+ucational outreach on diarrhoea treatment in pharmacies. Health Policy Plan 
+1996;11:308–18 . 
+[28] Awor P, Wamani H, Tylleskar T, Jagoe G, Peterson S. Increased access to care 
+and appropriateness of treatment at private sector drug shops with integrated 
+management of malaria, pneumonia and diarrhoea: a quasi-experimental 
+study in Uganda. PLoS One 2014;9(12):e115440. doi: 10.1371/journal.pone. 
+0115440 . 
+[29] Chowdhury F, Sturm-Ramirez K, Mamun AA, et al. Effectiveness of an educa- 
+tional intervention to improve antibiotic dispensing practices for acute respi- 
+ratory illness among drug sellers in pharmacies: a pilot study in Bangladesh. 
+BMC. Health Serv Res 2018;18:676. doi: 10.1186/s12913-018- 3486- y . 
+[30] Kitutu FE, Kalyango JN, Mayora C, Selling KE, Peterson S, Wamani H. Integrated 
+community case management by drug sellers inﬂuences appropriate treatment 
+of paediatric febrile illness in South Western Uganda: a quasi-experimental 
+study. Malaria J 2017;16:425. doi: 10.1186/s12936- 017- 2072- 9 . 
+[31] Mandal SC, Mandal M. Improving use of medicines in the community through 
+interventions. Value Health 2011;14:A340 . 
+[32] Nsimba SE. Assessing the impact of educational intervention for improving 
+management of malaria and other childhood illnesses in Kibaha District-Tan- 
+zania. East Afr J Public Health 2007;4:5–11 PMID: 17907754 . 
+[33] Kaﬂe K, Shrestha A, Karkee S. Test of strategies for implementing STS in im- 
+proving use of drugs. Report to the RPM Project, 2001. 
+[34] Effective Practice and Organisation of Care (EPOC). EPOC Taxonomy; 2015 . 
+Available at: https://epoc.cochrane.org/epoc-taxonomy . 
+[35] Grimshaw JM, Eccles MP, Lavis JN, Hill SJ, Squires JE. Knowledge translation of 
+research ﬁndings. Implement Sci 2012;7:50. doi: 10.1186/1748- 5908- 7- 50 . 
+[36] Gebretekle GB, Serbessa MK. Exploration of over the counter sales of antibi- 
+otics in community pharmacies of Addis Ababa, Ethiopia: pharmacy profes- 
+sionals’ perspective. Antimicrob Resist Infect Control 2016;5:2. doi: 10.1186/ 
+s13756- 016- 0101- z . 
+[37] Eisen M, Zellman GL, McAlister AL. A health belief model approach to 
+adolescents’ fertility control: Some pilot program ﬁndings. Health Educ Q 
+1985;12:185–210 . 
+[38] Eisen M, Zellman GL, AL McAlister AL. A health belief model-social learning 
+theory approach to adolescents’ fertility control: ﬁndings from a controlled 
+ﬁeld trial. Health Educ Q 1992;19:249–62 . 
+[39] Bourbonnais R, Brisson C, Vinet A, Vézina M, Abdous B, Gaudet M. Ef- 
+fectiveness of a participative intervention on psychosocial work factors to 
+prevent mental health problems in a hospital setting. Occup Environ Med 
+2006;63:335–42. doi: 10.1136/oem.2004.018077 . 
+[40] O’Cathain A, Croot L, Sworn K, et al. Taxonomy of approaches to developing in- 
+terventions to improve health: a systematic methods overview. Pilot Feasibility 
+Stud 2019;5:41. doi: 10.1186/s40814- 019- 0425- 6 . 
+274 
