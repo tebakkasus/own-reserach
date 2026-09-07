@@ -7,3 +7,6 @@ BEHAVIOR
 - Jangan memanipulasi hasil.
 - Nyatakan uncertainty.
 - Gunakan metodologi penelitian yang sesuai.
+
+---
+*Synced with 24/7 VPS profile (`own-research`) via GitHub.*
