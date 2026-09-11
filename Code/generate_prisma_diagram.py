@@ -1,6 +1,12 @@
 """
-Generate Clean, Non-Overlapping PRISMA 2020 Flow Diagram for PINMAS IV
-Fixes: Box spacing, canvas height, clear separation between all phases
+Generate Clean, Non-Overlapping PRISMA 2020 Flow Diagram for ICSH 2026 (v8 Final)
+Applies exact v8 patch specifications:
+  - Title: "PRISMA 2020 Flow Diagram for Systematic Review and Meta-Analysis"
+  - Subtitle: "Interventions to Reduce Non-Prescription Antibiotic Dispensing in LMIC Community Pharmacies"
+  - Box 8 Header: "Studies Included in Systematic Review (n = 14)" with full 14-study list
+  - Box 9 Header: "Studies Included in Quantitative Synthesis (n = 3)"
+  - Other Sources: explicit citation searching breakdown
+  - Initial triage: "Records removed before title/abstract screening (n = 2,635)"
 """
 import matplotlib
 matplotlib.use('Agg')
@@ -58,10 +64,10 @@ def draw_arrow(x1, y1, x2, y2):
                             color='#475569', linewidth=1.3, zorder=1)
     ax.add_patch(arrow)
 
-# Title
-ax.text(50, 98.5, "PRISMA 2020 Flow Diagram for Systematic Review & Meta-Analysis",
+# Title & Subtitle (per specification 1)
+ax.text(50, 98.5, "PRISMA 2020 Flow Diagram for Systematic Review and Meta-Analysis",
         fontsize=12.5, fontweight='bold', ha='center', va='top', family='sans-serif')
-ax.text(50, 96.8, "Community Interventions on Non-Prescription Antibiotic Dispensing in LMICs",
+ax.text(50, 96.8, "Interventions to Reduce Non-Prescription Antibiotic Dispensing in LMIC Community Pharmacies",
         fontsize=10, fontstyle='italic', color=c_text_muted, ha='center', va='top', family='sans-serif')
 
 # ══════════════════════════════════════════
@@ -69,14 +75,15 @@ ax.text(50, 96.8, "Community Interventions on Non-Prescription Antibiotic Dispen
 # ══════════════════════════════════════════
 draw_section_label(94, 78, "IDENTIFICATION")
 
-b1_text = "Records identified from:\n• PubMed (n = 1,142)\n• OpenAlex (n = 1,896)\n• Cochrane Library (n = 185)\nTotal: (n = 3,223)"
+b1_text = "Records identified from databases:\n• PubMed (n = 1,142)\n• OpenAlex (n = 1,896)\n• Cochrane Library (n = 185)\nTotal: (n = 3,223)"
 draw_box(12, 80, 34, 13, b1_text, header="Identification from Databases")
 
-b2_text = "Records identified from:\n• Afari-Asiedu et al. (2022) (n = 15)\n• Cochrane 2025 review (n = 7)\nTotal: (n = 22)"
+# Box 2: Other sources with explicit citation searching breakdown (per specification 1)
+b2_text = "Records identified from citation searching:\n• Afari-Asiedu et al. (2022) reference lists (n = 15)\n• Cochrane review (2025) reference lists (n = 7)\nTotal: (n = 22)"
 draw_box(54, 80, 34, 13, b2_text, header="Identification from Other Sources")
 
-# Flow to initial triage (Y: 65 down to 54)
-b3_text = "Total records retrieved across all sources (N = 3,245)\nDuplicates removed before screening (n = 0)*\nRecords excluded by automated screening (n = 2,635)\n*Records screened systematically from unified master database"
+# Flow to initial triage - neutral wording per specification 2
+b3_text = "Total records retrieved across all sources (N = 3,245)\nDuplicates removed before screening (n = 0)*\nRecords removed before title/abstract screening (n = 2,635)\n*Records screened systematically from unified master database"
 draw_box(20, 65, 60, 11, b3_text, header="Initial Triage")
 
 draw_arrow(29, 80, 40, 76)
@@ -87,25 +94,21 @@ draw_arrow(71, 80, 60, 76)
 # ══════════════════════════════════════════
 draw_section_label(77, 32, "SCREENING")
 
-# Box 4: Title/Abstract Screened (Y: 50 to 60)
 b4_text = "Records screened by Title/Abstract\n(n = 610 candidates)\n[588 master pool + 22 citation tracking]"
 draw_box(12, 50, 36, 10, b4_text, header="Title & Abstract Screening")
 
 draw_arrow(50, 65, 30, 60)
 
-# Box 5: Excluded at TA (Y: 48 to 61)
 b5_text = "Records excluded at Title/Abstract (n = 427):\n• No relevant intervention/outcome signals (n = 367)\n• Non-antibiotic dispensing outcomes (n = 21)\n• High-income country / non-LMIC (n = 12)\n• Review / editorial / qualitative only (n = 14)\n• Clinical trials / non-pharmacy populations (n = 13)\n\nReports carried forward for full-text assessment (n = 183)"
 draw_box(54, 47, 42, 14, b5_text, header="Title/Abstract Exclusion Outcomes", is_excluded=True)
 
 draw_arrow(48, 55, 54, 55)
 
-# Box 6: Full Text Assessed (Y: 34 to 44)
 b6_text = "Reports sought for full-text retrieval\nand assessed for eligibility\n(n = 183)\n[161 from database screening + 22 from tracking]"
 draw_box(12, 34, 36, 10, b6_text, header="Full-Text Eligibility Assessment")
 
 draw_arrow(30, 50, 30, 44)
 
-# Box 7: Excluded at FT (Y: 31 to 45)
 b7_text = "Reports excluded after full-text evaluation (n = 169):\n• Public sector prescriber setting (n = 18)\n• Non-private community drug retail setting (n = 34)\n• Non-controlled or observational pre-only (n = 42)\n• Outcome not non-prescription dispensing (n = 26)\n• Malaria/non-antibiotic case management (n = 9)\n• Physician-targeted primary care prescribing (n = 14)\n• Other non-qualifying features (n = 26)"
 draw_box(54, 30, 42, 15, b7_text, header="Full-Text Reports Excluded", is_excluded=True)
 
@@ -116,15 +119,23 @@ draw_arrow(48, 39, 54, 39)
 # ══════════════════════════════════════════
 draw_section_label(31, 2, "INCLUDED")
 
-# Box 8: Qualitative synthesis (Y: 15 to 27)
-b8_text = "Studies included in qualitative systematic review (k = 14):\n• Core meta-analysis pool (k = 3): Chalker (2005), Onwunduba (2023), Ferdiana (2024)\n• Additional qualitative pool (k = 11): Awor (2014), Kitutu (2017), Chowdhury (2018),\n  Do (2018), Saif (2024), Visser (2024), Tumwikirize (2004)*, Chalker (2002),\n  Chuc (2002), Rutta (2015), Simba (2016)\n*Tumwikirize 2004: full-text paywalled; extracted from Cochrane 2025 review"
-draw_box(12, 15, 76, 11, b8_text, header="Qualitative Systematic Review Inclusion (k = 14)", is_included=True)
+# Box 8: All 14 systematic review studies (per CSV ta_included.csv)
+b8_text = ("Studies included in systematic review (n = 14):\n"
+           "Chalker (2005), Chalker (2002), Chuc (2002), Tumwikirize (2004)*,\n"
+           "Rutta (2015), Simba (2016), Chowdhury (2018), Wei (2019),\n"
+           "Saleh (2021), Bocquier (2023), Saif (2024), Visser (2024),\n"
+           "Nguyen (2024), Saha (2026)\n"
+           "*Tumwikirize 2004: full-text paywalled; data extracted from Cochrane 2025 review")
+draw_box(12, 15, 76, 11, b8_text, header="Studies Included in Systematic Review (n = 14)", is_included=True)
 
 draw_arrow(30, 34, 30, 26)
 
-# Box 9: Quantitative synthesis (Y: 3 to 11) — WELL SEPARATED!
-b9_text = "Studies included in primary quantitative meta-analysis (k = 3):\n(Chalker 2005, Onwunduba 2023, Ferdiana 2024)\nTotal Pharmacies: N = 345 | Simulated Encounters: N = 1,683\nPooled OR = 0.164 (95% CI: 0.102–0.265; I² = 0.0%, p < 0.0001)"
-draw_box(12, 3, 76, 8, b9_text, header="Quantitative Meta-Analysis Inclusion (k = 3)", is_included=True)
+# Box 9: Quantitative synthesis (Y: 3 to 11)
+b9_text = ("Studies included in quantitative synthesis (n = 3):\n"
+           "Chalker (2005), Onwunduba (2023), Ferdiana (2024)\n"
+           "Total Pharmacies: N = 345 | Simulated Encounters: N = 1,683\n"
+           "Pooled OR = 0.164 (95% CI: 0.102-0.265; I-squared = 0.0%, p < 0.0001)")
+draw_box(12, 3, 76, 8, b9_text, header="Studies Included in Quantitative Synthesis (n = 3)", is_included=True)
 
 draw_arrow(50, 15, 50, 11)
 
