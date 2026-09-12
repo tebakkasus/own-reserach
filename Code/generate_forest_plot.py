@@ -136,7 +136,7 @@ ax_plot.set_yticks([])
 # ══════════════════════════════════════════
 fig.text(0.5, 0.96, "Forest Plot: Interventions to Reduce Non-Prescription Antibiotic Dispensing",
          fontsize=12, fontweight='bold', ha='center', va='top', fontfamily='sans-serif')
-fig.text(0.5, 0.925, "in LMIC Community Pharmacies (PINMAS IV)",
+fig.text(0.5, 0.925, "in LMIC Community Pharmacies",
          fontsize=10, fontstyle='italic', color=C_MUTED, ha='center', va='top', fontfamily='sans-serif')
 
 plt.subplots_adjust(top=0.89, bottom=0.14, left=0.02, right=0.98)

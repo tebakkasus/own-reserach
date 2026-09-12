@@ -257,15 +257,56 @@ add_p("", space_after=8)
 add_p("References", bold=True, size=12, space_before=6, space_after=6)
 
 references_list = [
+    # 1. Murray et al. 2022 — AMR burden (cited in Introduction)
     "Murray CJL, Ikuta KS, Sharara F, Swetschinski LR, Robles Aguilar G, Gray A, et al. Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis. Lancet. 2022;399(10325):629-55.",
+    # 2. Morgan et al. 2011 — Non-prescription antimicrobial use (cited in Introduction)
     "Morgan DJ, Okeke IN, Laxminarayan R, Perencevich EN, Weisenberg S. Non-prescription antimicrobial use worldwide: a systematic review. Lancet Infect Dis. 2011;11(9):692-701.",
+    # 3. Afari-Asiedu et al. 2022 — Earlier review (cited in Introduction & Discussion)
     "Afari-Asiedu S, Abdulai MA, Tostmann A, Asiedu-Birktag E, von Marschall Z, Schuit E, et al. Interventions to improve dispensing of antibiotics at the community level in low and middle income countries: a systematic review. J Glob Antimicrob Resist. 2022;29:259-74.",
-    "Chalker J, Ratanawijitrasin S, Chuc NTK, Petzold M, Tomson G. Effectiveness of a multi-component intervention on dispensing practices at private pharmacies in Vietnam and Thailand: a randomized controlled trial. Soc Sci Med. 2005;60(1):131-41.",
-    "Onwunduba A, Ekwunife O, Onyilogwu E, Onyemelukwe C, Modebe A, Igbokwe D. Impact of point-of-care C-reactive protein testing intervention on non-prescription dispensing of antibiotics for respiratory tract infections in private community pharmacies in Nigeria: a cluster randomized controlled trial. Int J Infect Dis. 2023;127:137-43.",
-    "Ferdiana A, Wulandari LPL, Liverani M, Limato R, Essiet I, Mcknight J, et al. The impact of a multi-faceted intervention on non-prescription dispensing of antibiotics by urban community pharmacies in Indonesia: a mixed methods evaluation. BMJ Glob Health. 2024;9(10):e015620.",
+    # 4. Thandar et al. 2025 — Cochrane review (cited in Introduction & Discussion) [NEW]
+    "Thandar MM, Baba T, Matsuoka S, Ota E. Interventions to reduce non-prescription antimicrobial sales in community pharmacies. Cochrane Database Syst Rev. 2025;(1):CD013722. doi: 10.1002/14651858.CD013722.pub2.",
+    # 5. Page et al. 2021 — PRISMA 2020 (cited in Methods) [NEW]
+    "Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021;372:n71. doi: 10.1136/bmj.n71.",
+    # 6. Chalker 2002 — 14-study pool (PRISMA Box 8) [NEW]
+    "Chalker J, Chuc NTK, Falkenberg T, Tomson G. Private pharmacies in Hanoi, Vietnam: a randomized trial of a 2-year multi-component intervention on knowledge and stated practice regarding ARI, STD and antibiotic/steroid requests. Trop Med Int Health. 2002;7(9):803-10. doi: 10.1046/j.1365-3156.2002.00934.x.",
+    # 7. Chuc 2002 — 14-study pool (PRISMA Box 8) [NEW]
+    "Chuc NTK, Larsson M, Do NT, Diwan VK, Tomson GB, Falkenberg T. Improving private pharmacy practice: a multi-intervention experiment in Hanoi, Vietnam. J Clin Epidemiol. 2002;55(11):1148-55. doi: 10.1016/s0895-4356(02)00458-4.",
+    # 8. Chalker et al. 2005 — Quantitative pool & 14-study pool
+    "Chalker J, Ratanawijitrasin S, Chuc NTK, Petzold M, Tomson G. Effectiveness of a multi-component intervention on dispensing practices at private pharmacies in Vietnam and Thailand: a randomized controlled trial. Soc Sci Med. 2005;60(1):131-41. doi: 10.1016/j.socscimed.2004.04.019.",
+    # 9. Onwunduba et al. 2023 — Quantitative pool & 14-study pool
+    "Onwunduba A, Ekwunife O, Onyilogwu E, Onyemelukwe C, Modebe A, Igbokwe D. Impact of point-of-care C-reactive protein testing intervention on non-prescription dispensing of antibiotics for respiratory tract infections in private community pharmacies in Nigeria: a cluster randomized controlled trial. Int J Infect Dis. 2023;127:137-43. doi: 10.1016/j.ijid.2022.12.012.",
+    # 10. Ferdiana et al. 2024 — Quantitative pool & 14-study pool
+    "Ferdiana A, Wulandari LPL, Liverani M, Limato R, Essiet I, Mcknight J, et al. The impact of a multi-faceted intervention on non-prescription dispensing of antibiotics by urban community pharmacies in Indonesia: a mixed methods evaluation. BMJ Glob Health. 2024;9(10):e015620. doi: 10.1136/bmjgh-2024-015620.",
+    # 11. Tumwikirize et al. 2004 — 14-study pool (Limitation note)
     "Tumwikirize WA, Ekwaru PJ, Mohammed K, Ogwal-Okeng JW, Aupont O. Impact of a face-to-face educational intervention on improving the management of acute respiratory infections in private pharmacies and drug shops in Uganda. East Afr Med J. 2004;81(Suppl 1):S33-40.",
+    # 12. Rutta et al. 2015 — 14-study pool (PRISMA Box 8) [NEW]
+    "Rutta E, Liana J, Embrey M, Johnson K, Kimatta S, et al. Accrediting retail drug shops to strengthen Tanzania's public health system: an ADDO case study. J Pharm Policy Pract. 2015;8(1):23. doi: 10.1186/s40545-015-0044-4.",
+    # 13. Simba et al. 2016 — 14-study pool (PRISMA Box 8) [NEW]
+    "Simba D, Kakoko D, Semali I, Kessy A, Embrey M. Household knowledge of antimicrobials and antimicrobial resistance in the wake of an accredited drug dispensing outlet (ADDO) program rollout in Tanzania. PLoS One. 2016;11(9):e0163246. doi: 10.1371/journal.pone.0163246.",
+    # 14. Chowdhury et al. 2018 — 14-study pool (PRISMA Box 8) [NEW]
+    "Chowdhury F, Sturm-Ramirez K, Mamun AA, Iuliano AD, Chisti MJ, et al. Effectiveness of an educational intervention to improve antibiotic dispensing practices for acute respiratory illness among drug sellers in pharmacies, a pilot study in Bangladesh. BMC Health Serv Res. 2018;18(1):680. doi: 10.1186/s12913-018-3486-y.",
+    # 15. Wei et al. 2019 — 14-study pool (PRISMA Box 8) [NEW]
+    "Wei X, Zhang Z, Hicks JP, Walley J, King R, et al. Long-term outcomes of an educational intervention to reduce antibiotic prescribing for childhood upper respiratory tract infections in rural China: follow-up of a cluster-randomised controlled trial. PLoS Med. 2019;16(2):e1002733. doi: 10.1371/journal.pmed.1002733.",
+    # 16. Saleh et al. 2021 — 14-study pool (PRISMA Box 8) [NEW]
+    "Saleh D, Abu Farha R, Alefishat E. Impact of educational intervention to promote Jordanian community pharmacists' knowledge and perception towards antimicrobial stewardship: pre-post interventional study. Infect Drug Resist. 2021;14:2229-39. doi: 10.2147/IDR.S324865.",
+    # 17. Bocquier et al. 2023 — 14-study pool (PRISMA Box 8) [NEW]
+    "Bocquier A, Essilini A, Pereira O, Welter A, Pulcini C, et al. Impact of a public commitment charter, a non-prescription pad and an antibiotic information leaflet to improve antibiotic prescription among general practitioners: a randomised controlled study. J Infect Public Health. 2023;16(1):12-20. doi: 10.1016/j.jiph.2023.11.027.",
+    # 18. Saif et al. 2024 — 14-study pool (PRISMA Box 8) [NEW]
+    "Saif A, Khan TM, Bukhsh A, Yaseen MO, Saif A. Cross-sectional survey to explore knowledge, attitude, practices and impact of an intervention programme related to antibiotic misuse and self-medication among general population of Pakistan. BMJ Public Health. 2024;2:e000758. doi: 10.1136/bmjph-2023-000758.",
+    # 19. Visser et al. 2024 — 14-study pool (PRISMA Box 8) [NEW]
+    "Visser T, Laktabai J, Kimachas E, Kipkoech J, Menya D, et al. A cluster-randomized trial of client and provider directed financial interventions to align incentives with appropriate case management in private medicine retailers: results of the TESTsmART trial in Lagos, Nigeria. PLOS Glob Public Health. 2024;4(5):e0002938. doi: 10.1371/journal.pgph.0002938.",
+    # 20. Nguyen et al. 2024 — 14-study pool (PRISMA Box 8) [NEW]
+    "Nguyen VN, Do NTT, Vu HTL, Bui PB, Pham TQ, et al. Understanding acceptability and willingness-to-pay for a C-reactive protein point-of-care testing service to improve antibiotic dispensing for respiratory infections in Vietnamese pharmacies: a mixed-methods study. Open Forum Infect Dis. 2024;11(9):ofae445. doi: 10.1093/ofid/ofae445.",
+    # 21. Saha et al. 2026 — 14-study pool (PRISMA Box 8) [NEW]
+    "Saha SK, Muleme M, Van Hecke O, Chatterton ML, Athan E. Feasibility of C-reactive protein point-of-care testing for antibiotic stewardship in rural GP-pharmacy settings. Antimicrob Steward Healthc Epidemiol. 2026;6(1):e10401. doi: 10.1017/ash.2026.10401.",
+    # 22. DerSimonian & Laird 1986 — Random-effects model (cited in Methods)
     "DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986;7(3):177-88.",
-    "Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557-60."
+    # 23. Higgins et al. 2003 — I² statistic (cited in Discussion/Results)
+    "Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557-60.",
+    # 24. Hartung & Knapp 2001 — HKSJ method (cited in Methods/Results) [NEW]
+    "Hartung J, Knapp G. A refined method for the meta-analysis of controlled clinical trials with binary outcome. Stat Med. 2001;20(24):3875-89.",
+    # 25. Sidik & Jonkman 2002 — HKSJ method (cited in Methods/Results) [NEW]
+    "Sidi K, Jonkman JN. A comparison of heterogeneity variance estimators in combining results of studies. Stat Med. 2002;21(11):1521-32.",
 ]
 
 for idx, ref in enumerate(references_list, 1):

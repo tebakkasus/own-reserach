@@ -15,8 +15,8 @@ def validate_abstract(path):
     # Metadata Table
     t0 = doc.tables[0].rows[0].cells[0].text
     print(f"Table 0 Metadata Present: {'MANUSCRIPT SUBMISSION METADATA' in t0}")
-    print(f"Paper ID / Order ID: {'[ORDER ID — VERIFY FROM PARTICIPANT PORTAL]' in t0 or 'ORDER ID' in t0}")
-    print(f"Research Track: {'[TRACK NUMBER — VERIFY FROM PARTICIPANT PORTAL]' in t0 or 'TRACK NUMBER' in t0}")
+    print(f"Paper ID / Order ID: {'IKH-291286-ZG89' in t0}")
+    print(f"Research Track: {'Track 02: Medicine (Sustainable Health 5.0)' in t0}")
     print(f"Oral Presentation: {'[ X ] Oral Presentation' in t0}")
     print(f"Publication Preference (AJMB): {'[ X ] Asian Journal of Medicine and Biomedicine (AJMB)' in t0}")
     
